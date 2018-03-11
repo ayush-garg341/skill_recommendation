@@ -1,0 +1,2767 @@
+antecedants,consequents
+ado.net,asp.net
+sqlserver,asp.net
+vb.net,asp.net
+mfc,c++
+vc++,c++
+ccnp,ccna
+css,html
+css3,html5
+customer support,in
+design,in
+in,design
+dns,dhcp
+dhcp,dns
+employee relations,recruitment
+import,export
+export,import
+hive,hadoop
+pig,hadoop
+hibernate,java
+spring,hibernate
+struts,hibernate
+installation,in
+optimization,in
+planning,in
+router,in
+switch,in
+router,installation
+j2ee,java
+maven,java
+spring,java
+jdbc,jsp
+joomla,php
+joomla,wordpress
+servlet,jsp
+servlets,jsp
+quality center,manual testing
+personnel,payroll
+payroll,recruitment
+performance management,recruitment
+personnel,recruitment
+wordpress,php
+"ajax, ado.net",asp.net
+"c#, ado.net",asp.net
+"jquery, ado.net",asp.net
+"wcf, ado.net",asp.net
+"c#, ajax",asp.net
+"ajax, asp.net",c#
+"ajax, sql server",asp.net
+"ajax, sql server",c#
+"ajax, html",css
+"ajax, css",html
+"ajax, wordpress",css
+"ajax, linq",jquery
+"ajax, mysql",jquery
+"ajax, wordpress",jquery
+"ajax, linq",wcf
+"php, ajax",mysql
+"ajax, mysql",php
+"ajax, wordpress",php
+"c#, css",asp.net
+"asp.net, css",c#
+"java script, c#",asp.net
+"c#, javascript",asp.net
+"asp.net, javascript",c#
+"c#, mvc",asp.net
+"c#, sql server",asp.net
+"c#, vb.net",asp.net
+"c#, wcf",asp.net
+"wpf, c#",asp.net
+"c#.net, sql server",asp.net
+"c#.net, vb.net",asp.net
+"c#.net, wcf",asp.net
+"jquery, mvc",asp.net
+"jquery, sql server",asp.net
+"linq, asp.net",wcf
+"wcf, mvc",asp.net
+"mvc, asp.net",wcf
+"sql server, vb.net",asp.net
+"sql server, wcf",asp.net
+"vb.net, wcf",asp.net
+"web services, wcf",asp.net
+"web services, asp.net",wcf
+"wpf, wcf",asp.net
+"wpf, asp.net",wcf
+"qtp, automation testing",manual testing
+"c#, mvc",wcf
+"sql server, wcf",c#
+"wpf, c#",wcf
+"wpf, wcf",c#
+"css, hibernate",html
+"j2ee, css",html
+"css, java",html
+"java script, css",html
+"css, javascript",html
+"jquery, css",html
+"jsp, css",html
+"mysql, css",html
+"php, html",css
+"php, css",html
+"html, wordpress",css
+"css, wordpress",html
+"xml, css",html
+"j2ee, css",java
+"jsp, css",java
+"jquery, css",javascript
+"css, javascript",jquery
+"mysql, css",php
+"css, wordpress",php
+"css3, javascript",html5
+"html5, javascript",css3
+"jquery, css3",html5
+"jquery, html5",css3
+"css3, html5",jquery
+"jquery, css3",javascript
+"css3, javascript",jquery
+"design, customer support",in
+"design, installation",in
+"design, optimization",in
+"optimization, in",design
+"design, planning",in
+"planning, in",design
+"html, hibernate",java
+"html, hibernate",javascript
+"hibernate, javascript",html
+"spring, html",hibernate
+"struts, html",hibernate
+"html, hibernate",struts
+"j2ee, hibernate",java
+"hibernate, java",j2ee
+"hibernate, javascript",j2ee
+"j2ee, jquery",hibernate
+"jquery, hibernate",j2ee
+"j2ee, spring",hibernate
+"j2ee, hibernate",spring
+"j2ee, struts",hibernate
+"j2ee, hibernate",struts
+"hibernate, javascript",java
+"java, jdbc",hibernate
+"jquery, hibernate",java
+"jsp, hibernate",java
+"mysql, hibernate",java
+"servlet, hibernate",java
+"servlets, hibernate",java
+"spring, hibernate",java
+"spring, java",hibernate
+"hibernate, java",spring
+"struts, hibernate",java
+"struts, java",hibernate
+"xml, hibernate",java
+"spring, javascript",hibernate
+"hibernate, javascript",spring
+"struts, javascript",hibernate
+"hibernate, javascript",struts
+"jsp, jdbc",hibernate
+"hibernate, jdbc",jsp
+"struts, jdbc",hibernate
+"hibernate, jdbc",struts
+"spring, jquery",hibernate
+"jquery, hibernate",spring
+"jquery, hibernate",struts
+"jquery, struts",hibernate
+"servlet, hibernate",jsp
+"servlets, hibernate",jsp
+"spring, jsp",hibernate
+"jsp, struts",hibernate
+"jsp, hibernate",struts
+"struts, mysql",hibernate
+"mysql, hibernate",struts
+"spring, oracle",hibernate
+"oracle, hibernate",spring
+"oracle, struts",hibernate
+"oracle, hibernate",struts
+"spring, servlet",hibernate
+"servlet, hibernate",spring
+"servlets, struts",hibernate
+"servlets, hibernate",struts
+"spring, struts",hibernate
+"spring, hibernate",struts
+"struts, hibernate",spring
+"spring, xml",hibernate
+"xml, hibernate",spring
+"j2ee, html",java
+"jsp, html",java
+"spring, html",java
+"struts, html",java
+"jsp, javascript",html
+"spring, html",javascript
+"spring, javascript",html
+"struts, javascript",html
+"xml, javascript",html
+"xml, jquery",html
+"html, mysql",php
+"html, wordpress",php
+"jquery, html5",javascript
+"html5, javascript",jquery
+"optimization, installation",in
+"planning, installation",in
+"router, in",installation
+"router, installation",in
+router,"in, installation"
+"switch, in",installation
+"switch, installation",in
+"optimization, planning",in
+"j2ee, javascript",java
+"j2ee, jquery",java
+"j2ee, jsp",java
+"j2ee, mysql",java
+"j2ee, oracle",java
+"j2ee, servlet",java
+"j2ee, spring",java
+"spring, java",j2ee
+"j2ee, sql",java
+"j2ee, struts",java
+"struts, java",j2ee
+"j2ee, xml",java
+"oracle, javascript",j2ee
+"spring, javascript",j2ee
+"struts, javascript",j2ee
+"j2ee, servlet",jsp
+"oracle, struts",j2ee
+"j2ee, spring",struts
+"j2ee, struts",spring
+"spring, javascript",java
+"struts, javascript",java
+"java, jdbc",jsp
+"jsp, jquery",java
+"spring, jquery",java
+"struts, jquery",java
+"jsp, mysql",java
+"oracle, jsp",java
+"servlet, java",jsp
+"servlets, jsp",java
+"servlets, java",jsp
+"spring, jsp",java
+"jsp, struts",java
+"struts, mysql",java
+"spring, oracle",java
+"oracle, struts",java
+"spring, servlet",java
+"spring, struts",java
+"xml, jquery",javascript
+"mysql, javascript",php
+"wordpress, javascript",php
+"spring, javascript",struts
+"struts, javascript",spring
+"jsp, jdbc",struts
+"struts, jdbc",jsp
+"php, joomla",wordpress
+"joomla, wordpress",php
+"jquery, linq",wcf
+"jquery, mvc",wcf
+"php, jquery",mysql
+"jquery, mysql",php
+"jquery, wordpress",php
+"spring, jquery",struts
+"jquery, struts",spring
+"spring, servlet",jsp
+"servlet, struts",jsp
+"servlets, struts",jsp
+"qtp, qc",manual testing
+"sql, qc",manual testing
+"qtp, sql",manual testing
+"mysql, wordpress",php
+"spring, oracle",struts
+"oracle, struts",spring
+"performance management, payroll",recruitment
+"performance management, recruitment",payroll
+"payroll, recruitment",performance management
+"c#, ajax, javascript",asp.net
+"ajax, asp.net, javascript",c#
+"c#, ajax, jquery",asp.net
+"ajax, asp.net, jquery",c#
+"c#, ajax, wcf",asp.net
+"ajax, wcf, asp.net",c#
+"ajax, jquery, asp.net",javascript
+"ajax, asp.net, javascript",jquery
+"ajax, c#, jquery",javascript
+"ajax, css, javascript",html
+"ajax, html, css",jquery
+"ajax, html, jquery",css
+"ajax, css, jquery",html
+"php, ajax, html",css
+"php, ajax, css",html
+"ajax, css, javascript",jquery
+"php, ajax, css",jquery
+"php, jquery, css",ajax
+"ajax, jquery, html",javascript
+"ajax, html, javascript",jquery
+"php, ajax, html",javascript
+"php, ajax, html",jquery
+"ajax, mysql, javascript",php
+"php, ajax, jquery",mysql
+"ajax, mysql, jquery",php
+"jquery, asp.net, javascript",c#
+"jquery, html, css",javascript
+"jquery, html, javascript",css
+"jquery, css, javascript",html
+"html, css, javascript",jquery
+"html, mysql, css",javascript
+"html, mysql, javascript",css
+"mysql, css, javascript",html
+"php, html, javascript",css
+"php, css, javascript",html
+"jquery, mysql, html",css
+"jquery, mysql, css",html
+"php, jquery, html",css
+"php, jquery, css",html
+"php, html, mysql",css
+"php, mysql, css",html
+"html, mysql, css",php
+"php, html, css",mysql
+"mysql, css","php, html"
+"php, css, javascript",mysql
+"mysql, css, javascript",php
+"php, jquery, css",mysql
+"jquery, mysql, css",php
+"jquery, css3, html5",javascript
+"jquery, css3, javascript",html5
+"jquery, html5, javascript",css3
+"css3, html5, javascript",jquery
+"jquery, css3","html5, javascript"
+"jquery, html5","css3, javascript"
+"css3, javascript","jquery, html5"
+"design, planning, installation",in
+"html, hibernate, javascript",java
+"java, hibernate, javascript",html
+"html, hibernate, java",javascript
+"struts, html, hibernate",java
+"struts, html, java",hibernate
+"html, hibernate, java",struts
+"j2ee, jsp, hibernate",java
+"j2ee, jsp, java",hibernate
+"j2ee, oracle, hibernate",java
+"oracle, hibernate, java",j2ee
+"j2ee, spring, hibernate",java
+"j2ee, spring, java",hibernate
+"j2ee, hibernate, java",spring
+"spring, hibernate, java",j2ee
+"j2ee, spring","hibernate, java"
+"j2ee, struts, hibernate",java
+"j2ee, struts, java",hibernate
+"j2ee, hibernate, java",struts
+"struts, hibernate, java",j2ee
+"j2ee, spring, javascript",hibernate
+"j2ee, hibernate, javascript",spring
+"spring, hibernate, javascript",j2ee
+"spring, javascript","j2ee, hibernate"
+"j2ee, spring, struts",hibernate
+"j2ee, spring, hibernate",struts
+"j2ee, struts, hibernate",spring
+"spring, struts, hibernate",j2ee
+"servlet, jsp, hibernate",java
+"servlet, jsp, java",hibernate
+"servlet, hibernate, java",jsp
+"servlet, hibernate","jsp, java"
+"spring, jsp, hibernate",java
+"spring, jsp, java",hibernate
+"jsp, struts, hibernate",java
+"jsp, struts, java",hibernate
+"spring, oracle, hibernate",java
+"spring, oracle, java",hibernate
+"oracle, hibernate, java",spring
+"spring, struts, hibernate",java
+"spring, struts, java",hibernate
+"struts, hibernate, java",spring
+"jsp, struts, jdbc",hibernate
+"jsp, hibernate, jdbc",struts
+"struts, hibernate, jdbc",jsp
+"struts, jdbc","jsp, hibernate"
+"spring, servlet, jsp",hibernate
+"spring, servlet, hibernate",jsp
+"servlet, jsp, hibernate",spring
+"spring, servlet","jsp, hibernate"
+"servlet, hibernate","spring, jsp"
+"servlets, jsp, struts",hibernate
+"servlets, jsp, hibernate",struts
+"servlets, struts, hibernate",jsp
+"servlets, struts","jsp, hibernate"
+"servlets, hibernate","jsp, struts"
+"spring, jsp, struts",hibernate
+"spring, oracle, struts",hibernate
+"spring, oracle, hibernate",struts
+"oracle, struts, hibernate",spring
+"j2ee, html, javascript",java
+"j2ee, java, javascript",html
+"j2ee, html, java",javascript
+"jquery, html, mysql",javascript
+"jquery, mysql, javascript",html
+"html, mysql, javascript",jquery
+"xml, jquery, html",javascript
+"xml, jquery, javascript",html
+"php, html, javascript",mysql
+"php, jquery, html",mysql
+"jquery, html, mysql",php
+"j2ee, oracle, struts",java
+"oracle, struts, java",j2ee
+"j2ee, spring, struts",java
+"j2ee, spring, java",struts
+"j2ee, struts, java",spring
+"spring, struts, java",j2ee
+"html, mysql, css, javascript",php
+"php, mysql, css, javascript",html
+"php, html, css, javascript",mysql
+"php, html, mysql, javascript",css
+"mysql, css, javascript","php, html"
+"html, jquery, mysql, css",php
+"php, jquery, mysql, css",html
+"php, jquery, html, css",mysql
+"php, jquery, mysql, html",css
+"jquery, mysql, css","php, html"
+"php, jquery, css","html, mysql"
+"j2ee, spring, struts, java",hibernate
+"j2ee, spring, hibernate, java",struts
+"j2ee, struts, hibernate, java",spring
+"j2ee, spring, struts, hibernate",java
+"spring, struts, hibernate, java",j2ee
+"j2ee, spring, struts","hibernate, java"
+"spring, struts, java","j2ee, hibernate"
+antecedants,consequents
+cakephp,php
+mcse,ccna
+codeigniter,php
+css,html
+css3,html5
+dhcp,dns
+dns,dhcp
+hive,hadoop
+pig,hadoop
+jdbc,hibernate
+maven,hibernate
+spring,hibernate
+struts,hibernate
+mapreduce,hive
+pig,hive
+hive,pig
+servlet,jsp
+servlets,jsp
+magento,php
+mapreduce,pig
+oscommerce,mysql
+smarty,mysql
+zend,mysql
+opencart,php
+oscommerce,php
+smarty,php
+zend,php
+xslt,xml
+"ado.net, ajax",asp.net
+"ado.net, c#",asp.net
+"ado.net, wcf",asp.net
+"vb.net, ajax",asp.net
+"ajax, wcf",asp.net
+"xml, asp.net",ajax
+"ajax, bootstrap",jquery
+"c++, ajax",html
+"codeigniter, ajax",jquery
+"codeigniter, ajax",php
+"css, ajax",html
+"css, json",ajax
+"wordpress, ajax",css
+"ajax, css3",html5
+"ajax, css3",javascript
+"ajax, css3",jquery
+"drupal, ajax",javascript
+"drupal, ajax",mysql
+"drupal, ajax",php
+"hibernate, ajax",jsp
+"hibernate, ajax",spring
+"ajax, spring",hibernate
+"hibernate, ajax",struts
+"ajax, struts",hibernate
+"joomla, ajax",html
+"wordpress, ajax",html
+"html5, ajax",jquery
+"json, html5",ajax
+"html5, mysql",ajax
+"ajax, j2ee",jsp
+"joomla, ajax",javascript
+"joomla, javascript",ajax
+"json, javascript",ajax
+"ajax, web services",javascript
+"web services, javascript",ajax
+"joomla, ajax",jquery
+"joomla, ajax",mysql
+"joomla, ajax",php
+"json, ajax",jquery
+"jquery, linq",ajax
+"ajax, linq",jquery
+"jquery, smarty",ajax
+"ajax, sql",jquery
+"wordpress, ajax",jquery
+"json, mysql",ajax
+"ajax, servlet",jsp
+"ajax, spring",jsp
+"ajax, struts",jsp
+"mysql, ajax",php
+"mysql, smarty",ajax
+"ajax, smarty",mysql
+"php, smarty",ajax
+"ajax, smarty",php
+"wordpress, ajax",php
+"c#, sql server",asp.net
+"c#.net, javascript",asp.net
+"vb.net, c#.net",asp.net
+"c#.net, wcf",asp.net
+"css, asp.net",html
+"linq, javascript",asp.net
+"linq, asp.net",javascript
+"vb.net, javascript",asp.net
+"mvc, asp.net",wcf
+"vb.net, wcf",asp.net
+"xml, wcf",asp.net
+"bootstrap, javascript",jquery
+"java, c#",c++
+"css, c#",html
+"c++, css",html
+"c++, java script",html
+"c++, jquery",html
+"c++, jquery",php
+"c++, mysql",php
+"jquery, cakephp",php
+"php, cakephp",jquery
+"php, cakephp",mysql
+"cakephp, mysql",php
+"codeigniter, javascript",php
+"jquery, codeigniter",mysql
+"codeigniter, mysql",jquery
+"jquery, codeigniter",php
+"codeigniter, mysql",php
+"css, core java",html
+"jdbc, core java",hibernate
+"spring, core java",hibernate
+"core java, struts",hibernate
+"servlet, core java",jsp
+"servlets, core java",jsp
+"core java, struts",jsp
+"css, css3",html
+"html, css3",css
+"css, css3",html5
+"css, css3",javascript
+"css, css3",jquery
+"css, drupal",html
+"css, hibernate",html
+"css, hibernate",jsp
+"css, html5",html
+"html, html5",css
+"css, j2ee",html
+"css, java",html
+"css, java script",html
+"css, javascript",html
+"css, joomla",html
+"html, joomla",css
+"css, jquery",html
+"jquery, html",css
+"css, json",html
+"css, jsp",html
+"css, mysql",html
+"css, oracle",html
+"css, photoshop",html
+"html, photoshop",css
+"css, php",html
+"css, servlet",html
+"css, sql",html
+"css, wordpress",html
+"html, wordpress",css
+"css, xml",html
+"css, photoshop",javascript
+"photoshop, javascript",css
+"wordpress, javascript",css
+"css, joomla",jquery
+"css, joomla",mysql
+"css, joomla",php
+"css, joomla",wordpress
+"css, json",jquery
+"css, wordpress",jquery
+"css, mysql",php
+"css, wordpress",php
+"html, css3",html5
+"html, css3",javascript
+"html5, javascript",css3
+"javascript, css3",html5
+"jquery, html5",css3
+"jquery, css3",html5
+"mysql, css3",html5
+"php, css3",html5
+"javascript, css3",jquery
+"mysql, css3",jquery
+"php, css3",jquery
+"html, drupal",php
+"drupal, javascript",mysql
+"drupal, javascript",php
+"jquery, drupal",mysql
+"jquery, drupal",php
+"drupal, mysql",php
+"eclipse, html",oracle
+"eclipse, oracle",html
+"hadoop, pig",hive
+"hadoop, hive",pig
+"pig, hive",hadoop
+pig,"hadoop, hive"
+"jdbc, html",hibernate
+"hibernate, log4j",html
+"html, log4j",hibernate
+"hibernate, maven",html
+"html, maven",hibernate
+"oracle, hibernate",html
+"html, servlet",hibernate
+"hibernate, html",spring
+"html, spring",hibernate
+"html, struts",hibernate
+"hibernate, tomcat",html
+"html, tomcat",hibernate
+"xml, hibernate",html
+"hibernate, j2ee",spring
+"spring, j2ee",hibernate
+"hibernate, j2ee",struts
+"j2ee, struts",hibernate
+"java, hibernate",spring
+"java, spring",hibernate
+"java, struts",hibernate
+"hibernate, java script",spring
+"java script, spring",hibernate
+"jdbc, javascript",hibernate
+"hibernate, javascript",jsp
+"servlet, javascript",hibernate
+"hibernate, javascript",spring
+"javascript, spring",hibernate
+"javascript, struts",hibernate
+"jdbc, hibernate",jsp
+"jdbc, jsp",hibernate
+"jdbc, junit",hibernate
+"hibernate, junit",jdbc
+"jdbc, log4j",hibernate
+"hibernate, log4j",jdbc
+"jdbc, maven",hibernate
+"hibernate, maven",jdbc
+"oracle, jdbc",hibernate
+"jdbc, servlet",hibernate
+"jdbc, spring",hibernate
+"jdbc, struts",hibernate
+"xml, jdbc",hibernate
+"xml, hibernate",jdbc
+"jquery, spring",hibernate
+"jquery, struts",hibernate
+"hibernate, junit",jsp
+"junit, jsp",hibernate
+"hibernate, log4j",jsp
+"log4j, jsp",hibernate
+"hibernate, maven",jsp
+"jsp, maven",hibernate
+"hibernate, mysql",jsp
+"oracle, hibernate",jsp
+"oracle, jsp",hibernate
+"hibernate, servlet",jsp
+"jsp, servlet",hibernate
+"servlets, hibernate",jsp
+"jsp, spring",hibernate
+"hibernate, jsp",struts
+"hibernate, struts",jsp
+"jsp, struts",hibernate
+"xml, hibernate",jsp
+"xml, jsp",hibernate
+"hibernate, junit",log4j
+"hibernate, log4j",junit
+"log4j, junit",hibernate
+"hibernate, junit",maven
+"hibernate, maven",junit
+"junit, maven",hibernate
+"hibernate, junit",spring
+"junit, spring",hibernate
+"hibernate, maven",log4j
+"hibernate, log4j",maven
+"log4j, maven",hibernate
+"oracle, log4j",hibernate
+"hibernate, log4j",oracle
+"hibernate, log4j",spring
+"log4j, spring",hibernate
+"xml, log4j",hibernate
+"hibernate, log4j",xml
+"hibernate, maven",spring
+"maven, spring",hibernate
+"mysql, spring",hibernate
+"oracle, servlet",hibernate
+"oracle, hibernate",spring
+"oracle, spring",hibernate
+"oracle, hibernate",struts
+"oracle, struts",hibernate
+"hibernate, servlet",spring
+"servlet, spring",hibernate
+"hibernate, servlet",struts
+"servlet, struts",hibernate
+"xml, servlet",hibernate
+"servlets, spring",hibernate
+"hibernate, struts",spring
+"spring, struts",hibernate
+"hibernate, tomcat",spring
+"tomcat, spring",hibernate
+"xml, hibernate",spring
+"xml, spring",hibernate
+"sql, struts",hibernate
+"xml, struts",hibernate
+"java, java script",html
+"mysql, java script",html
+"oracle, java script",html
+"php, java script",html
+"xml, java script",html
+"joomla, javascript",html
+"linux, javascript",html
+"oracle, javascript",html
+"photoshop, javascript",html
+"wordpress, javascript",html
+"jdbc, html",jsp
+"jdbc, log4j",html
+"html, log4j",jdbc
+"oracle, jdbc",html
+"jdbc, html",spring
+"jdbc, spring",html
+"jdbc, html",xml
+"xml, jdbc",html
+"jquery, joomla",html
+"html, joomla",jquery
+"joomla, mysql",html
+"html, joomla",php
+"html, joomla",wordpress
+"joomla, wordpress",html
+"json, html",jquery
+"jquery, oracle",html
+"jquery, wordpress",html
+"html, servlet",jsp
+"html, struts",jsp
+"xml, jsp",html
+"html, linux",mysql
+"html, linux",php
+"html, maven",log4j
+"html, log4j",maven
+"log4j, maven",html
+"oracle, log4j",html
+"html, log4j",oracle
+"html, log4j",spring
+"log4j, spring",html
+"xml, log4j",html
+"html, log4j",xml
+"html, magento",php
+"oracle, maven",html
+"html, maven",oracle
+"html, mysql",php
+"mysql, wordpress",html
+"oracle, spring",html
+"oracle, tomcat",html
+"html, tomcat",oracle
+"oracle, xml",html
+"html, wordpress",php
+"html, struts",spring
+"html, tomcat",spring
+"tomcat, spring",html
+"xml, spring",html
+"json, html5",jquery
+"oracle, j2ee",java
+"servlet, j2ee",jsp
+"j2ee, sql",jsp
+"j2ee, struts",spring
+"spring, j2ee",struts
+"java, servlet",jsp
+"java, servlets",jsp
+"mysql, java script",php
+"jdbc, javascript",jsp
+"joomla, javascript",jquery
+"joomla, javascript",mysql
+"joomla, javascript",php
+"json, javascript",jquery
+"jquery, mvc",javascript
+"mvc, javascript",jquery
+"jquery, sql server",javascript
+"javascript, sql server",jquery
+"wordpress, javascript",jquery
+"servlet, javascript",jsp
+"javascript, struts",jsp
+"linux, javascript",mysql
+"linux, javascript",php
+"mysql, javascript",php
+"wordpress, javascript",php
+"javascript, spring",struts
+"javascript, struts",spring
+"vb.net, javascript",wcf
+"oracle, jdbc",jsp
+"jdbc, servlet",jsp
+"jdbc, jsp",servlet
+"jdbc, spring",jsp
+"jdbc, jsp",struts
+"jdbc, struts",jsp
+"xml, jdbc",jsp
+"jdbc, junit",log4j
+"jdbc, log4j",junit
+"log4j, junit",jdbc
+"jdbc, log4j",spring
+"log4j, spring",jdbc
+"xml, log4j",jdbc
+"jdbc, log4j",xml
+"oracle, jdbc",spring
+"oracle, jdbc",xml
+"jdbc, servlet",struts
+"jdbc, struts",servlet
+"xml, servlet",jdbc
+"jdbc, spring",struts
+"jdbc, struts",spring
+"xml, jdbc",spring
+"jquery, joomla",mysql
+"jquery, joomla",php
+"jquery, joomla",wordpress
+"joomla, mysql",php
+"json, mysql",jquery
+"json, php",jquery
+"json, xml",jquery
+"jquery, mysql",php
+"jquery, smarty",mysql
+"mysql, wordpress",jquery
+"jquery, smarty",php
+"jquery, wordpress",php
+"jquery, zend",php
+"zend, php",jquery
+"json, mysql",php
+"mysql, spring",jsp
+"oracle, servlet",jsp
+"oracle, jsp",servlet
+"oracle, jsp",struts
+"oracle, struts",jsp
+"servlet, spring",jsp
+"servlet, struts",jsp
+"xml, servlet",jsp
+"servlets, spring",jsp
+"jsp, spring",struts
+"xml, struts",jsp
+"log4j, junit",maven
+"log4j, maven",junit
+"junit, maven",log4j
+"php, magento",mysql
+"mysql, magento",php
+"php, smarty",mysql
+"mysql, smarty",php
+"mysql, wordpress",php
+"zend, php",mysql
+"zend, mysql",php
+zend,"php, mysql"
+"oracle, servlet",struts
+"oracle, spring",struts
+"oracle, struts",spring
+"servlet, spring",struts
+"servlet, struts",spring
+"xml, struts",spring
+"c#, ajax, wcf",asp.net
+"ajax, wcf, asp.net",c#
+"ajax, c#, asp.net",wcf
+"c++, html, ajax",php
+"c++, php, ajax",html
+"css, ajax, javascript",html
+"css, ajax, jquery",html
+"css, mysql, ajax",html
+"css, html, ajax",php
+"css, php, ajax",html
+"css, wordpress, ajax",html
+"html, wordpress, ajax",css
+"css, xml, ajax",html
+"css, ajax, jquery",javascript
+"css, ajax, javascript",jquery
+"css, mysql, ajax",javascript
+"css, json, jquery",ajax
+"css, json, ajax",jquery
+"css, json","jquery, ajax"
+"css, mysql, ajax",jquery
+"css, wordpress, ajax",jquery
+"jquery, wordpress, ajax",css
+"css, xml, ajax",jquery
+"css, mysql, ajax",php
+"css, mysql, wordpress",ajax
+"css, wordpress, ajax",mysql
+"mysql, ajax, wordpress",css
+"css, wordpress, ajax",php
+"php, wordpress, ajax",css
+"html5, ajax, javascript",css3
+"html5, ajax, css3",javascript
+"ajax, javascript, css3",html5
+"jquery, html5, ajax",css3
+"jquery, ajax, css3",html5
+"html5, ajax, css3",jquery
+"ajax, css3","jquery, html5"
+"jquery, ajax, css3",javascript
+"ajax, javascript, css3",jquery
+"drupal, php, ajax",javascript
+"drupal, php, javascript",ajax
+"drupal, ajax, javascript",php
+"drupal, ajax","php, javascript"
+"php, drupal, ajax",mysql
+"drupal, mysql, ajax",php
+"drupal, ajax","php, mysql"
+"hibernate, ajax, jsp",javascript
+"hibernate, ajax, javascript",jsp
+"hibernate, ajax, jsp",spring
+"hibernate, ajax, spring",jsp
+"ajax, jsp, spring",hibernate
+"hibernate, ajax","jsp, spring"
+"ajax, spring","hibernate, jsp"
+"hibernate, ajax, jsp",struts
+"hibernate, ajax, struts",jsp
+"ajax, jsp, struts",hibernate
+"ajax, struts","hibernate, jsp"
+"html, ajax, joomla",javascript
+"html, javascript, joomla",ajax
+"joomla, ajax, javascript",html
+"jquery, html, ajax",javascript
+"html, ajax, javascript",jquery
+"html, mysql, ajax",javascript
+"html, mysql, javascript",ajax
+"mysql, ajax, javascript",html
+"php, ajax, javascript",html
+"wordpress, ajax, javascript",html
+"xml, html, ajax",javascript
+"xml, ajax, javascript",html
+"jquery, joomla, ajax",html
+"html, ajax, joomla",jquery
+"html, mysql, joomla",ajax
+"html, ajax, joomla",mysql
+"joomla, mysql, ajax",html
+"jquery, html, json",ajax
+"json, html, ajax",jquery
+"jquery, html, mysql",ajax
+"html, mysql, ajax",jquery
+"jquery, html, ajax",php
+"html, php, ajax",jquery
+"jquery, wordpress, ajax",html
+"html, wordpress, ajax",jquery
+"html, php, ajax",mysql
+"html, mysql, ajax",php
+"php, mysql, ajax",html
+"html, mysql, wordpress",ajax
+"html, wordpress, ajax",mysql
+"mysql, ajax, wordpress",html
+"xml, mysql, ajax",html
+"html, wordpress, ajax",php
+"php, wordpress, ajax",html
+"xml, html, php",ajax
+"xml, php, ajax",html
+"html5, ajax, javascript",jquery
+"jquery, joomla, ajax",javascript
+"jquery, joomla, javascript",ajax
+"joomla, ajax, javascript",jquery
+"joomla, mysql, ajax",javascript
+"joomla, mysql, javascript",ajax
+"joomla, ajax, javascript",mysql
+"joomla, php, ajax",javascript
+"joomla, php, javascript",ajax
+"joomla, ajax, javascript",php
+"joomla, ajax","php, javascript"
+"jquery, json, javascript",ajax
+"json, ajax, javascript",jquery
+"jquery, mysql, ajax",javascript
+"jquery, mysql, javascript",ajax
+"mysql, ajax, javascript",jquery
+"jquery, php, javascript",ajax
+"php, ajax, javascript",jquery
+"wordpress, ajax, javascript",jquery
+"jquery, xml, ajax",javascript
+"jquery, xml, javascript",ajax
+"xml, ajax, javascript",jquery
+"php, mysql, ajax",javascript
+"php, mysql, javascript",ajax
+"php, ajax, javascript",mysql
+"mysql, ajax, javascript",php
+"mysql, ajax, wordpress",javascript
+"mysql, wordpress, javascript",ajax
+"wordpress, ajax, javascript",mysql
+"xml, mysql, ajax",javascript
+"wordpress, ajax, javascript",php
+"xml, php, ajax",javascript
+"xml, php, javascript",ajax
+"joomla, php, ajax",mysql
+"joomla, mysql, ajax",php
+"jquery, json, php",ajax
+"json, php, ajax",jquery
+"jquery, php, ajax",mysql
+"jquery, mysql, ajax",php
+"php, mysql, ajax",jquery
+"mysql, ajax, wordpress",jquery
+"jquery, wordpress, ajax",php
+"jquery, xml, php",ajax
+"php, mysql, smarty",ajax
+"php, ajax, smarty",mysql
+"mysql, ajax, smarty",php
+"ajax, smarty","php, mysql"
+"mysql, ajax, wordpress",php
+"xml, php, ajax",mysql
+"xml, mysql, ajax",php
+"c++, jquery, css",html
+"c++, php, css",html
+"c++, html, javascript",php
+"c++, php, javascript",html
+"c++, html, jquery",php
+"c++, php, jquery",html
+"c++, html, mysql",php
+"c++, jquery, javascript",php
+"c++, mysql, jquery",php
+"jquery, php, codeigniter",mysql
+"jquery, codeigniter, mysql",php
+"php, codeigniter, mysql",jquery
+"codeigniter, mysql","jquery, php"
+"jdbc, html, core java",hibernate
+"hibernate, html, core java",jdbc
+"hibernate, html, core java",spring
+"html, spring, core java",hibernate
+"jdbc, jsp, core java",hibernate
+"jdbc, spring, core java",hibernate
+"jdbc, core java, struts",hibernate
+"hibernate, servlet, core java",jsp
+"hibernate, jsp, core java",servlet
+"jsp, servlet, core java",hibernate
+"hibernate, jsp, core java",spring
+"hibernate, spring, core java",jsp
+"jsp, spring, core java",hibernate
+"hibernate, core java, struts",jsp
+"core java, jsp, struts",hibernate
+"oracle, hibernate, core java",spring
+"oracle, spring, core java",hibernate
+"hibernate, servlet, core java",spring
+"servlet, spring, core java",hibernate
+"core java, servlet, struts",hibernate
+"core java, spring, struts",hibernate
+"servlet, spring, core java",jsp
+"core java, servlet, struts",jsp
+"core java, jsp, struts",servlet
+"css, html, html5",css3
+"css, html, css3",html5
+"css, html5, css3",html
+"html, html5, css3",css
+"css, css3","html, html5"
+"html, css3","css, html5"
+"css, html, css3",javascript
+"css, javascript, css3",html
+"html, javascript, css3",css
+"css, css3","html, javascript"
+"css, html5, javascript",css3
+"css, html5, css3",javascript
+"css, javascript, css3",html5
+"css, css3","html5, javascript"
+"css, html5, css3",jquery
+"css, jquery, css3",html5
+"css, jquery, css3",javascript
+"css, javascript, css3",jquery
+"css, html, html5",javascript
+"css, html5, javascript",html
+"html, html5, javascript",css
+"css, html, html5",jquery
+"css, html5, jquery",html
+"jquery, html, html5",css
+"css, javascript, java",html
+"css, jquery, java",html
+"css, php, java",html
+"css, php, java script",html
+"css, joomla, javascript",html
+"html, javascript, joomla",css
+"css, jquery, javascript",html
+"jquery, html, javascript",css
+"css, mysql, javascript",html
+"css, php, javascript",html
+"css, wordpress, javascript",html
+"html, wordpress, javascript",css
+"css, xml, javascript",html
+"css, html, joomla",jquery
+"css, joomla, jquery",html
+"jquery, html, joomla",css
+"css, joomla, mysql",html
+"html, mysql, joomla",css
+"css, html, joomla",php
+"css, joomla, php",html
+"html, php, joomla",css
+"css, joomla","html, php"
+"css, html, joomla",wordpress
+"css, joomla, wordpress",html
+"html, wordpress, joomla",css
+"css, html, json",jquery
+"css, json, jquery",html
+"jquery, html, json",css
+"css, json","jquery, html"
+"css, mysql, jquery",html
+"jquery, html, mysql",css
+"css, php, jquery",html
+"css, html, wordpress",jquery
+"css, wordpress, jquery",html
+"jquery, html, wordpress",css
+"css, xml, jquery",html
+"css, html, mysql",php
+"css, php, mysql",html
+"css, mysql, wordpress",html
+"html, mysql, wordpress",css
+"css, xml, mysql",html
+"css, html, wordpress",php
+"css, php, wordpress",html
+"html, php, wordpress",css
+"css, html5, jquery",javascript
+"css, html5, javascript",jquery
+"css, mysql, jquery",javascript
+"css, mysql, javascript",jquery
+"css, php, javascript",jquery
+"css, wordpress, javascript",jquery
+"jquery, wordpress, javascript",css
+"css, mysql, javascript",php
+"mysql, wordpress, javascript",css
+"css, wordpress, javascript",php
+"php, wordpress, javascript",css
+"css, joomla, wordpress",jquery
+"css, joomla, jquery",wordpress
+"jquery, joomla, wordpress",css
+"css, joomla, php",mysql
+"css, joomla, mysql",php
+"css, php, mysql",jquery
+"css, mysql, jquery",php
+"css, mysql, wordpress",jquery
+"css, wordpress, jquery",mysql
+"jquery, mysql, wordpress",css
+"css, php, wordpress",jquery
+"css, wordpress, jquery",php
+"css, mysql, wordpress",php
+"html, html5, javascript",css3
+"html, html5, css3",javascript
+"html, javascript, css3",html5
+"html, css3","html5, javascript"
+"jquery, html5, javascript",css3
+"jquery, html5, css3",javascript
+"jquery, javascript, css3",html5
+"html5, javascript, css3",jquery
+"html, drupal, mysql",php
+"html, drupal, php",mysql
+"php, drupal, mysql",javascript
+"php, drupal, javascript",mysql
+"drupal, mysql, javascript",php
+"drupal, javascript","php, mysql"
+"jquery, php, drupal",mysql
+"jquery, drupal, mysql",php
+"hibernate, html, j2ee",struts
+"html, j2ee, struts",hibernate
+"hibernate, html, javascript",spring
+"html, javascript, spring",hibernate
+"jdbc, html, hibernate",jsp
+"jdbc, html, jsp",hibernate
+"hibernate, html, jsp",jdbc
+"log4j, jdbc, hibernate",html
+"jdbc, html, log4j",hibernate
+"hibernate, html, log4j",jdbc
+"jdbc, log4j","hibernate, html"
+"hibernate, log4j","jdbc, html"
+"html, log4j","jdbc, hibernate"
+"jdbc, html, hibernate",oracle
+"oracle, jdbc, hibernate",html
+"oracle, jdbc, html",hibernate
+"oracle, hibernate, html",jdbc
+"oracle, jdbc","hibernate, html"
+"jdbc, html, hibernate",spring
+"jdbc, spring, hibernate",html
+"jdbc, html, spring",hibernate
+"jdbc, html","hibernate, spring"
+"jdbc, html, hibernate",struts
+"jdbc, html, struts",hibernate
+"jdbc, html, hibernate",xml
+"xml, jdbc, hibernate",html
+"xml, jdbc, html",hibernate
+"xml, hibernate, html",jdbc
+"xml, jdbc","hibernate, html"
+"oracle, html, jsp",hibernate
+"hibernate, html, servlet",jsp
+"html, jsp, servlet",hibernate
+"hibernate, html, jsp",spring
+"html, jsp, spring",hibernate
+"hibernate, html, jsp",struts
+"hibernate, html, struts",jsp
+"html, jsp, struts",hibernate
+"xml, hibernate, html",jsp
+"xml, hibernate, jsp",html
+"xml, html, jsp",hibernate
+"hibernate, html, log4j",spring
+"log4j, hibernate, spring",html
+"log4j, html, spring",hibernate
+"hibernate, log4j","html, spring"
+"html, log4j","hibernate, spring"
+"log4j, spring","hibernate, html"
+"xml, hibernate, html",log4j
+"xml, hibernate, log4j",html
+"xml, html, log4j",hibernate
+"hibernate, html, log4j",xml
+"xml, log4j","hibernate, html"
+"hibernate, log4j","xml, html"
+"html, log4j","xml, hibernate"
+"oracle, hibernate, html",spring
+"oracle, hibernate, spring",html
+"oracle, html, spring",hibernate
+"hibernate, html, spring",oracle
+"oracle, spring","hibernate, html"
+"oracle, hibernate, html",xml
+"oracle, hibernate, xml",html
+"oracle, html, xml",hibernate
+"xml, hibernate, html",oracle
+"hibernate, html, servlet",spring
+"html, servlet, spring",hibernate
+"hibernate, html, servlet",struts
+"html, servlet, struts",hibernate
+"hibernate, html, spring",struts
+"hibernate, html, struts",spring
+"html, spring, struts",hibernate
+"html, struts","hibernate, spring"
+"hibernate, html, tomcat",spring
+"hibernate, tomcat, spring",html
+"html, tomcat, spring",hibernate
+"hibernate, tomcat","html, spring"
+"html, tomcat","hibernate, spring"
+"tomcat, spring","hibernate, html"
+"xml, hibernate, html",spring
+"xml, hibernate, spring",html
+"xml, html, spring",hibernate
+"java, hibernate, j2ee",spring
+"java, spring, j2ee",hibernate
+"java, hibernate, j2ee",struts
+"java, j2ee, struts",hibernate
+"hibernate, jsp, j2ee",spring
+"hibernate, spring, j2ee",jsp
+"jsp, spring, j2ee",hibernate
+"hibernate, j2ee, struts",jsp
+"hibernate, jsp, j2ee",struts
+"j2ee, jsp, struts",hibernate
+"hibernate, j2ee, struts",spring
+"hibernate, spring, j2ee",struts
+"j2ee, spring, struts",hibernate
+"java, hibernate, jsp",spring
+"java, jsp, spring",hibernate
+"java, hibernate, jsp",struts
+"java, jsp, struts",hibernate
+"java, hibernate, spring",struts
+"java, hibernate, struts",spring
+"java, spring, struts",hibernate
+"jdbc, javascript, hibernate",jsp
+"jdbc, jsp, javascript",hibernate
+"hibernate, servlet, javascript",jsp
+"jsp, servlet, javascript",hibernate
+"servlet, javascript","hibernate, jsp"
+"hibernate, jsp, javascript",spring
+"hibernate, javascript, spring",jsp
+"jsp, javascript, spring",hibernate
+"hibernate, jsp, javascript",struts
+"hibernate, javascript, struts",jsp
+"jsp, javascript, struts",hibernate
+"javascript, struts","hibernate, jsp"
+"oracle, hibernate, javascript",spring
+"oracle, javascript, spring",hibernate
+"hibernate, javascript, spring",struts
+"hibernate, javascript, struts",spring
+"javascript, spring, struts",hibernate
+"javascript, spring","hibernate, struts"
+"javascript, struts","hibernate, spring"
+"oracle, jdbc, hibernate",jsp
+"oracle, jdbc, jsp",hibernate
+"oracle, hibernate, jsp",jdbc
+"oracle, jdbc","hibernate, jsp"
+"jdbc, servlet, hibernate",jsp
+"jdbc, jsp, hibernate",servlet
+"jdbc, jsp, servlet",hibernate
+"jdbc, servlet","hibernate, jsp"
+"jdbc, jsp, hibernate",spring
+"jdbc, spring, hibernate",jsp
+"jdbc, jsp, spring",hibernate
+"jdbc, spring","hibernate, jsp"
+"jdbc, jsp, hibernate",struts
+"jdbc, hibernate, struts",jsp
+"jdbc, jsp, struts",hibernate
+"jdbc, struts","hibernate, jsp"
+"xml, jdbc, hibernate",jsp
+"xml, jdbc, jsp",hibernate
+"xml, hibernate, jsp",jdbc
+"log4j, jdbc, hibernate",spring
+"log4j, jdbc, spring",hibernate
+"log4j, hibernate, spring",jdbc
+"jdbc, log4j","hibernate, spring"
+"hibernate, log4j","jdbc, spring"
+"log4j, spring","jdbc, hibernate"
+"xml, jdbc, hibernate",log4j
+"log4j, jdbc, hibernate",xml
+"xml, jdbc, log4j",hibernate
+"xml, hibernate, log4j",jdbc
+"jdbc, log4j","xml, hibernate"
+"hibernate, log4j","xml, jdbc"
+"xml, log4j","jdbc, hibernate"
+"oracle, jdbc, hibernate",spring
+"jdbc, spring, hibernate",oracle
+"oracle, jdbc, spring",hibernate
+"oracle, hibernate, spring",jdbc
+"oracle, jdbc","hibernate, spring"
+"oracle, jdbc, hibernate",struts
+"oracle, jdbc, struts",hibernate
+"oracle, jdbc, hibernate",xml
+"xml, jdbc, hibernate",oracle
+"oracle, jdbc, xml",hibernate
+"oracle, hibernate, xml",jdbc
+"jdbc, servlet, hibernate",spring
+"jdbc, servlet, spring",hibernate
+"jdbc, servlet, hibernate",struts
+"jdbc, hibernate, struts",servlet
+"jdbc, servlet, struts",hibernate
+"jdbc, spring, hibernate",struts
+"jdbc, hibernate, struts",spring
+"jdbc, spring, struts",hibernate
+"jdbc, spring","hibernate, struts"
+"jdbc, struts","hibernate, spring"
+"xml, jdbc, hibernate",spring
+"xml, jdbc, spring",hibernate
+"xml, hibernate, spring",jdbc
+"xml, jdbc","hibernate, spring"
+"oracle, hibernate, servlet",jsp
+"oracle, hibernate, jsp",servlet
+"oracle, jsp, servlet",hibernate
+"oracle, servlet","hibernate, jsp"
+"oracle, hibernate, jsp",spring
+"oracle, hibernate, spring",jsp
+"oracle, jsp, spring",hibernate
+"oracle, hibernate, jsp",struts
+"oracle, hibernate, struts",jsp
+"oracle, jsp, struts",hibernate
+"oracle, struts","hibernate, jsp"
+"hibernate, jsp, servlet",spring
+"hibernate, servlet, spring",jsp
+"hibernate, jsp, spring",servlet
+"jsp, servlet, spring",hibernate
+"servlet, spring","hibernate, jsp"
+"hibernate, jsp, servlet",struts
+"hibernate, servlet, struts",jsp
+"hibernate, jsp, struts",servlet
+"jsp, servlet, struts",hibernate
+"servlet, struts","hibernate, jsp"
+"xml, hibernate, servlet",jsp
+"xml, hibernate, jsp",servlet
+"xml, jsp, servlet",hibernate
+"xml, servlet","hibernate, jsp"
+"hibernate, jsp, spring",struts
+"hibernate, jsp, struts",spring
+"hibernate, spring, struts",jsp
+"jsp, spring, struts",hibernate
+"xml, hibernate, jsp",spring
+"xml, hibernate, spring",jsp
+"xml, jsp, spring",hibernate
+"xml, hibernate, jsp",struts
+"xml, hibernate, struts",jsp
+"xml, jsp, struts",hibernate
+"xml, struts","hibernate, jsp"
+"oracle, hibernate, servlet",struts
+"oracle, servlet, struts",hibernate
+"oracle, hibernate, spring",struts
+"oracle, hibernate, struts",spring
+"oracle, spring, struts",hibernate
+"oracle, struts","hibernate, spring"
+"oracle, hibernate, xml",spring
+"oracle, xml, spring",hibernate
+"xml, hibernate, spring",oracle
+"hibernate, servlet, spring",struts
+"hibernate, servlet, struts",spring
+"servlet, spring, struts",hibernate
+"servlet, spring","hibernate, struts"
+"html, mysql, java script",php
+"php, mysql, java script",html
+"jquery, html, joomla",javascript
+"jquery, joomla, javascript",html
+"html, javascript, joomla",jquery
+"html, mysql, joomla",javascript
+"html, javascript, joomla",mysql
+"joomla, mysql, javascript",html
+"html, javascript, joomla",php
+"joomla, php, javascript",html
+"jquery, html, mysql",javascript
+"jquery, wordpress, javascript",html
+"html, wordpress, javascript",jquery
+"html, php, linux",javascript
+"html, linux, javascript",php
+"php, linux, javascript",html
+"linux, javascript","html, php"
+"html, php, javascript",mysql
+"html, mysql, javascript",php
+"php, mysql, javascript",html
+"html, wordpress, javascript",mysql
+"mysql, wordpress, javascript",html
+"html, wordpress, javascript",php
+"php, wordpress, javascript",html
+"xml, php, javascript",html
+"jdbc, html, jsp",spring
+"jdbc, html, spring",jsp
+"html, jsp, spring",jdbc
+"jdbc, html, jsp",struts
+"jdbc, html, struts",jsp
+"html, jsp, struts",jdbc
+"jdbc, html, jsp",xml
+"xml, jdbc, html",jsp
+"xml, jdbc, jsp",html
+"xml, html, jsp",jdbc
+"jdbc, html, spring",log4j
+"jdbc, html, log4j",spring
+"log4j, jdbc, spring",html
+"log4j, html, spring",jdbc
+"jdbc, log4j","html, spring"
+"html, log4j","jdbc, spring"
+"log4j, spring","jdbc, html"
+"oracle, jdbc, html",spring
+"jdbc, html, spring",oracle
+"oracle, jdbc, spring",html
+"oracle, html, spring",jdbc
+"oracle, jdbc","html, spring"
+"oracle, jdbc, html",xml
+"xml, jdbc, html",oracle
+"oracle, jdbc, xml",html
+"oracle, html, xml",jdbc
+"jdbc, html, spring",struts
+"jdbc, html, struts",spring
+"xml, jdbc, html",spring
+"jdbc, html, spring",xml
+"xml, jdbc, spring",html
+"xml, html, spring",jdbc
+"xml, jdbc","html, spring"
+"jquery, html, joomla",mysql
+"jquery, joomla, mysql",html
+"html, mysql, joomla",jquery
+"jquery, html, joomla",php
+"jquery, joomla, php",html
+"html, php, joomla",jquery
+"jquery, html, joomla",wordpress
+"jquery, joomla, wordpress",html
+"html, wordpress, joomla",jquery
+"html, php, joomla",mysql
+"html, mysql, joomla",php
+"joomla, php, mysql",html
+"html, mysql, joomla",wordpress
+"joomla, mysql, wordpress",html
+"joomla, php, wordpress",html
+"jquery, html, mysql",php
+"jquery, html, wordpress",mysql
+"jquery, mysql, wordpress",html
+"html, mysql, wordpress",jquery
+"jquery, xml, mysql",html
+"jquery, html, wordpress",php
+"jquery, php, wordpress",html
+"jquery, xml, php",html
+"html, jsp, spring",struts
+"html, jsp, struts",spring
+"html, spring, struts",jsp
+"html, mysql, wordpress",php
+"php, mysql, wordpress",html
+"xml, html, php",mysql
+"xml, html, mysql",php
+"xml, php, mysql",html
+"oracle, html, xml",spring
+"oracle, html, spring",xml
+"oracle, xml, spring",html
+"xml, html, spring",oracle
+"java, jsp, spring",j2ee
+"java, j2ee, struts",spring
+"java, jsp, spring",struts
+"java, jsp, struts",spring
+"jquery, joomla, mysql",javascript
+"jquery, joomla, javascript",mysql
+"joomla, mysql, javascript",jquery
+"jquery, joomla, php",javascript
+"jquery, joomla, javascript",php
+"joomla, php, javascript",jquery
+"joomla, php, mysql",javascript
+"joomla, php, javascript",mysql
+"joomla, mysql, javascript",php
+"joomla, javascript","php, mysql"
+"jquery, php, javascript",mysql
+"jquery, mysql, javascript",php
+"php, mysql, javascript",jquery
+"jquery, wordpress, javascript",mysql
+"mysql, wordpress, javascript",jquery
+"jquery, wordpress, javascript",php
+"jsp, servlet, javascript",struts
+"servlet, javascript, struts",jsp
+"jsp, javascript, spring",struts
+"jsp, javascript, struts",spring
+"javascript, spring, struts",jsp
+"php, wordpress, javascript",mysql
+"mysql, wordpress, javascript",php
+"xml, php, javascript",mysql
+"xml, mysql, javascript",php
+"oracle, jdbc, jsp",spring
+"oracle, jdbc, spring",jsp
+"oracle, jsp, spring",jdbc
+"oracle, jdbc, jsp",struts
+"oracle, jdbc, struts",jsp
+"oracle, jsp, struts",jdbc
+"jdbc, servlet, spring",jsp
+"jdbc, jsp, spring",servlet
+"jdbc, jsp, servlet",struts
+"jdbc, servlet, struts",jsp
+"jdbc, jsp, struts",servlet
+"jdbc, jsp, spring",struts
+"jdbc, jsp, struts",spring
+"jdbc, spring, struts",jsp
+"jdbc, spring","jsp, struts"
+"jdbc, struts","jsp, spring"
+"oracle, jdbc, xml",spring
+"oracle, jdbc, spring",xml
+"oracle, xml, spring",jdbc
+"xml, jdbc, spring",oracle
+"jdbc, servlet, spring",struts
+"jdbc, servlet, struts",spring
+"jdbc, spring, struts",servlet
+"servlet, spring, struts",jdbc
+"jquery, joomla, php",mysql
+"jquery, joomla, mysql",php
+"jquery, joomla, mysql",wordpress
+"jquery, joomla, wordpress",mysql
+"joomla, mysql, wordpress",jquery
+"joomla, php, wordpress",mysql
+"joomla, mysql, wordpress",php
+"jquery, php, smarty",mysql
+"jquery, mysql, smarty",php
+"php, mysql, smarty",jquery
+"jquery, smarty","php, mysql"
+"jquery, php, wordpress",mysql
+"jquery, mysql, wordpress",php
+"php, mysql, wordpress",jquery
+"jquery, xml, php",mysql
+"jquery, xml, mysql",php
+"oracle, jsp, servlet",spring
+"oracle, servlet, spring",jsp
+"oracle, jsp, spring",servlet
+"oracle, jsp, servlet",struts
+"oracle, servlet, struts",jsp
+"oracle, jsp, struts",servlet
+"oracle, servlet","jsp, struts"
+"oracle, jsp, spring",struts
+"oracle, jsp, struts",spring
+"oracle, spring, struts",jsp
+"jsp, servlet, spring",struts
+"jsp, servlet, struts",spring
+"servlet, spring, struts",jsp
+"jsp, spring, struts",servlet
+"servlet, spring","jsp, struts"
+"css, html, ajax, javascript",jquery
+"css, html, ajax, jquery",javascript
+"css, ajax, jquery, javascript",html
+"css, html, mysql, javascript",ajax
+"css, html, mysql, ajax",javascript
+"css, mysql, ajax, javascript",html
+"css, php, ajax, javascript",html
+"css, html, mysql, jquery",ajax
+"css, html, mysql, ajax",jquery
+"css, ajax, mysql, jquery",html
+"jquery, html, mysql, ajax",css
+"css, html, php, ajax",jquery
+"css, html, ajax, jquery",php
+"css, ajax, php, jquery",html
+"css, html, wordpress, ajax",jquery
+"css, ajax, wordpress, jquery",html
+"jquery, html, wordpress, ajax",css
+"css, html, mysql, ajax",php
+"css, php, mysql, ajax",html
+"css, mysql, ajax","html, php"
+"css, html, mysql, wordpress",ajax
+"css, html, wordpress, ajax",mysql
+"css, ajax, mysql, wordpress",html
+"html, ajax, mysql, wordpress",css
+"ajax, mysql, wordpress","css, html"
+"css, html, wordpress, ajax",php
+"css, php, wordpress, ajax",html
+"html, php, wordpress, ajax",css
+"css, wordpress, ajax","html, php"
+"css, mysql, jquery, javascript",ajax
+"css, mysql, ajax, javascript",jquery
+"css, ajax, mysql, jquery",javascript
+"css, php, jquery, javascript",ajax
+"css, php, ajax, javascript",jquery
+"css, ajax, php, jquery",javascript
+"css, php, mysql, javascript",ajax
+"css, php, mysql, ajax",javascript
+"css, php, ajax, javascript",mysql
+"css, mysql, ajax, javascript",php
+"css, php, mysql, jquery",ajax
+"css, php, mysql, ajax",jquery
+"css, ajax, php, jquery",mysql
+"css, ajax, mysql, jquery",php
+"jquery, html, mysql, javascript",ajax
+"html, mysql, ajax, javascript",jquery
+"jquery, html, mysql, ajax",javascript
+"jquery, mysql, ajax, javascript",html
+"jquery, html, php, javascript",ajax
+"html, php, ajax, javascript",jquery
+"jquery, html, php, ajax",javascript
+"jquery, html, ajax, javascript",php
+"jquery, php, ajax, javascript",html
+"xml, html, jquery, javascript",ajax
+"xml, html, ajax, javascript",jquery
+"xml, html, ajax, jquery",javascript
+"xml, ajax, jquery, javascript",html
+"html, php, mysql, javascript",ajax
+"html, php, mysql, ajax",javascript
+"html, php, ajax, javascript",mysql
+"html, mysql, ajax, javascript",php
+"php, mysql, ajax, javascript",html
+"jquery, html, php, mysql",ajax
+"html, php, mysql, ajax",jquery
+"jquery, html, php, ajax",mysql
+"jquery, html, mysql, ajax",php
+"jquery, php, mysql, ajax",html
+"html, ajax, mysql, wordpress",jquery
+"jquery, html, wordpress, ajax",mysql
+"jquery, ajax, mysql, wordpress",html
+"ajax, mysql, wordpress","jquery, html"
+"html, php, wordpress, ajax",mysql
+"html, ajax, mysql, wordpress",php
+"ajax, php, mysql, wordpress",html
+"ajax, mysql, wordpress","html, php"
+"xml, html, php, mysql",ajax
+"xml, html, php, ajax",mysql
+"xml, html, mysql, ajax",php
+"xml, php, mysql, ajax",html
+"joomla, php, mysql, javascript",ajax
+"joomla, php, mysql, ajax",javascript
+"joomla, php, ajax, javascript",mysql
+"joomla, mysql, ajax, javascript",php
+"joomla, php, ajax","mysql, javascript"
+"joomla, mysql, javascript","php, ajax"
+"joomla, mysql, ajax","php, javascript"
+"joomla, ajax, javascript","php, mysql"
+"jquery, php, mysql, javascript",ajax
+"php, mysql, ajax, javascript",jquery
+"jquery, php, mysql, ajax",javascript
+"jquery, php, ajax, javascript",mysql
+"jquery, mysql, ajax, javascript",php
+"hibernate, jsp, spring, core java",servlet
+"servlet, jsp, spring, core java",hibernate
+"hibernate, servlet, jsp, core java",spring
+"hibernate, servlet, spring, core java",jsp
+"servlet, spring, core java","hibernate, jsp"
+"hibernate, servlet, jsp, core java",struts
+"hibernate, struts, jsp, core java",servlet
+"struts, servlet, jsp, core java",hibernate
+"hibernate, struts, servlet, core java",jsp
+"struts, servlet, core java","hibernate, jsp"
+"css, html, html5, javascript",css3
+"css, html, javascript, css3",html5
+"css, html, html5, css3",javascript
+"css, html5, javascript, css3",html
+"html, html5, javascript, css3",css
+"css, html, css3","html5, javascript"
+"css, html5, javascript","html, css3"
+"css, javascript, css3","html, html5"
+"css, html5, css3","html, javascript"
+"html, html5, javascript","css, css3"
+"html, javascript, css3","css, html5"
+"html, html5, css3","css, javascript"
+"css, css3","html, html5, javascript"
+"css, html, mysql, javascript",jquery
+"css, html, mysql, jquery",javascript
+"css, mysql, jquery, javascript",html
+"jquery, html, mysql, javascript",css
+"css, html, php, javascript",jquery
+"css, php, jquery, javascript",html
+"jquery, html, php, javascript",css
+"css, html, wordpress, javascript",jquery
+"css, html, wordpress, jquery",javascript
+"css, wordpress, jquery, javascript",html
+"jquery, html, wordpress, javascript",css
+"css, wordpress, javascript","jquery, html"
+"html, wordpress, javascript","css, jquery"
+"jquery, wordpress, javascript","css, html"
+"css, html, mysql, javascript",php
+"css, php, mysql, javascript",html
+"css, html, wordpress, javascript",php
+"css, php, wordpress, javascript",html
+"html, php, wordpress, javascript",css
+"css, html, php, mysql",jquery
+"css, html, php, jquery",mysql
+"css, html, mysql, jquery",php
+"css, php, mysql, jquery",html
+"css, mysql, jquery","html, php"
+"css, html, mysql, wordpress",jquery
+"css, html, wordpress, jquery",mysql
+"css, mysql, jquery, wordpress",html
+"jquery, html, mysql, wordpress",css
+"css, mysql, wordpress","jquery, html"
+"html, mysql, wordpress","css, jquery"
+"jquery, mysql, wordpress","css, html"
+"css, html, php, wordpress",jquery
+"css, html, wordpress, jquery",php
+"css, php, wordpress, jquery",html
+"jquery, html, php, wordpress",css
+"css, html, mysql, wordpress",php
+"css, php, mysql, wordpress",html
+"html, php, mysql, wordpress",css
+"css, mysql, wordpress","html, php"
+"css, php, mysql, javascript",jquery
+"css, php, mysql, jquery",javascript
+"css, php, jquery, javascript",mysql
+"css, mysql, jquery, javascript",php
+"css, mysql, wordpress, javascript",jquery
+"css, mysql, jquery, wordpress",javascript
+"css, wordpress, jquery, javascript",mysql
+"jquery, mysql, wordpress, javascript",css
+"mysql, wordpress, javascript","css, jquery"
+"css, php, wordpress, javascript",jquery
+"css, php, wordpress, jquery",javascript
+"css, wordpress, jquery, javascript",php
+"jquery, php, wordpress, javascript",css
+"css, php, mysql, wordpress",jquery
+"css, php, wordpress, jquery",mysql
+"css, mysql, jquery, wordpress",php
+"jquery, php, mysql, wordpress",css
+"css, mysql, wordpress","jquery, php"
+"jdbc, html, jsp, spring",hibernate
+"jdbc, jsp, hibernate, spring",html
+"jdbc, html, jsp, hibernate",spring
+"jdbc, html, hibernate, spring",jsp
+"html, jsp, hibernate, spring",jdbc
+"jdbc, html, jsp","hibernate, spring"
+"jdbc, html, spring","hibernate, jsp"
+"html, jsp, spring","jdbc, hibernate"
+"jdbc, html, jsp, hibernate",struts
+"jdbc, html, jsp, struts",hibernate
+"jdbc, html, hibernate, struts",jsp
+"html, jsp, hibernate, struts",jdbc
+"jdbc, html, jsp","hibernate, struts"
+"jdbc, html, struts","hibernate, jsp"
+"html, jsp, struts","jdbc, hibernate"
+"log4j, jdbc, html, spring",hibernate
+"jdbc, html, hibernate, spring",log4j
+"log4j, jdbc, hibernate, spring",html
+"jdbc, html, hibernate, log4j",spring
+"log4j, html, hibernate, spring",jdbc
+"jdbc, html, spring","log4j, hibernate"
+"log4j, jdbc, spring","html, hibernate"
+"jdbc, html, log4j","hibernate, spring"
+"jdbc, hibernate, log4j","html, spring"
+"log4j, html, spring","jdbc, hibernate"
+"log4j, hibernate, spring","jdbc, html"
+"html, hibernate, log4j","jdbc, spring"
+"jdbc, log4j","html, hibernate, spring"
+"log4j, spring","jdbc, html, hibernate"
+"html, log4j","jdbc, hibernate, spring"
+"log4j, hibernate","jdbc, html, spring"
+"oracle, jdbc, html, spring",hibernate
+"oracle, jdbc, hibernate, spring",html
+"oracle, jdbc, html, hibernate",spring
+"oracle, html, hibernate, spring",jdbc
+"jdbc, html, hibernate, spring",oracle
+"oracle, jdbc, spring","html, hibernate"
+"oracle, jdbc, html","hibernate, spring"
+"oracle, jdbc, hibernate","html, spring"
+"oracle, html, spring","jdbc, hibernate"
+"oracle, html, hibernate","jdbc, spring"
+"jdbc, html, spring","oracle, hibernate"
+"jdbc, html, hibernate","oracle, spring"
+"oracle, jdbc","html, hibernate, spring"
+"oracle, jdbc, html, xml",hibernate
+"oracle, jdbc, html, hibernate",xml
+"oracle, jdbc, xml, hibernate",html
+"oracle, html, xml, hibernate",jdbc
+"xml, jdbc, html, hibernate",oracle
+"oracle, jdbc, html","xml, hibernate"
+"oracle, jdbc, xml","html, hibernate"
+"oracle, jdbc, hibernate","xml, html"
+"oracle, html, xml","jdbc, hibernate"
+"oracle, xml, hibernate","jdbc, html"
+"xml, jdbc, html","oracle, hibernate"
+"xml, jdbc, hibernate","oracle, html"
+"xml, html, hibernate","oracle, jdbc"
+"jdbc, html, hibernate, spring",struts
+"jdbc, html, spring, struts",hibernate
+"jdbc, hibernate, spring, struts",html
+"jdbc, html, hibernate, struts",spring
+"html, hibernate, spring, struts",jdbc
+"jdbc, html, spring","hibernate, struts"
+"jdbc, html, struts","hibernate, spring"
+"xml, jdbc, html, spring",hibernate
+"jdbc, html, hibernate, spring",xml
+"xml, jdbc, hibernate, spring",html
+"xml, jdbc, html, hibernate",spring
+"xml, html, hibernate, spring",jdbc
+"jdbc, html, spring","xml, hibernate"
+"xml, jdbc, spring","html, hibernate"
+"xml, jdbc, html","hibernate, spring"
+"jdbc, html, hibernate","xml, spring"
+"xml, jdbc, hibernate","html, spring"
+"xml, html, spring","jdbc, hibernate"
+"xml, hibernate, spring","jdbc, html"
+"xml, html, hibernate","jdbc, spring"
+"html, jsp, hibernate, spring",struts
+"html, jsp, spring, struts",hibernate
+"html, jsp, hibernate, struts",spring
+"html, hibernate, spring, struts",jsp
+"html, jsp, spring","hibernate, struts"
+"html, jsp, hibernate","spring, struts"
+"html, jsp, struts","hibernate, spring"
+"html, spring, struts","hibernate, jsp"
+"oracle, html, xml, spring",hibernate
+"oracle, html, hibernate, spring",xml
+"oracle, xml, hibernate, spring",html
+"oracle, html, xml, hibernate",spring
+"xml, html, hibernate, spring",oracle
+"oracle, html, spring","xml, hibernate"
+"oracle, xml, spring","html, hibernate"
+"oracle, html, xml","hibernate, spring"
+"oracle, html, hibernate","xml, spring"
+"oracle, xml, hibernate","html, spring"
+"xml, html, spring","oracle, hibernate"
+"xml, hibernate, spring","oracle, html"
+"xml, html, hibernate","oracle, spring"
+"hibernate, jsp, spring, j2ee",struts
+"struts, jsp, spring, j2ee",hibernate
+"hibernate, struts, jsp, j2ee",spring
+"hibernate, struts, spring, j2ee",jsp
+"hibernate, jsp, javascript, spring",struts
+"jsp, javascript, spring, struts",hibernate
+"hibernate, jsp, javascript, struts",spring
+"hibernate, javascript, spring, struts",jsp
+"jsp, javascript, spring","hibernate, struts"
+"jsp, javascript, struts","hibernate, spring"
+"javascript, spring, struts","hibernate, jsp"
+"oracle, jdbc, jsp, spring",hibernate
+"oracle, jdbc, jsp, hibernate",spring
+"oracle, jdbc, hibernate, spring",jsp
+"oracle, hibernate, jsp, spring",jdbc
+"jdbc, jsp, hibernate, spring",oracle
+"oracle, jdbc, jsp","hibernate, spring"
+"oracle, jdbc, spring","hibernate, jsp"
+"oracle, jdbc, hibernate","jsp, spring"
+"oracle, jsp, spring","jdbc, hibernate"
+"oracle, jdbc, jsp, hibernate",struts
+"oracle, jdbc, jsp, struts",hibernate
+"oracle, jdbc, hibernate, struts",jsp
+"oracle, hibernate, jsp, struts",jdbc
+"oracle, jdbc, jsp","hibernate, struts"
+"oracle, jdbc, hibernate","jsp, struts"
+"oracle, jdbc, struts","hibernate, jsp"
+"jdbc, jsp, hibernate, spring",servlet
+"jdbc, servlet, jsp, spring",hibernate
+"jdbc, servlet, jsp, hibernate",spring
+"jdbc, servlet, hibernate, spring",jsp
+"jdbc, servlet, spring","hibernate, jsp"
+"jdbc, servlet, jsp, hibernate",struts
+"jdbc, jsp, hibernate, struts",servlet
+"jdbc, servlet, jsp, struts",hibernate
+"jdbc, servlet, hibernate, struts",jsp
+"jdbc, servlet, jsp","hibernate, struts"
+"jdbc, jsp, struts","hibernate, servlet"
+"jdbc, servlet, hibernate","jsp, struts"
+"jdbc, hibernate, struts","servlet, jsp"
+"jdbc, servlet, struts","hibernate, jsp"
+"jdbc, jsp, hibernate, spring",struts
+"jdbc, jsp, spring, struts",hibernate
+"jdbc, jsp, hibernate, struts",spring
+"jdbc, hibernate, spring, struts",jsp
+"jdbc, jsp, spring","hibernate, struts"
+"jdbc, jsp, struts","hibernate, spring"
+"jdbc, hibernate, spring","jsp, struts"
+"jdbc, spring, struts","hibernate, jsp"
+"jdbc, hibernate, struts","jsp, spring"
+"oracle, jdbc, xml, spring",hibernate
+"oracle, jdbc, hibernate, spring",xml
+"oracle, jdbc, xml, hibernate",spring
+"oracle, xml, hibernate, spring",jdbc
+"xml, jdbc, hibernate, spring",oracle
+"oracle, jdbc, spring","xml, hibernate"
+"oracle, jdbc, xml","hibernate, spring"
+"oracle, jdbc, hibernate","xml, spring"
+"oracle, xml, spring","jdbc, hibernate"
+"oracle, xml, hibernate","jdbc, spring"
+"xml, jdbc, spring","oracle, hibernate"
+"xml, jdbc, hibernate","oracle, spring"
+"jdbc, servlet, hibernate, spring",struts
+"jdbc, hibernate, spring, struts",servlet
+"jdbc, servlet, spring, struts",hibernate
+"jdbc, servlet, hibernate, struts",spring
+"jdbc, servlet, spring","hibernate, struts"
+"jdbc, servlet, struts","hibernate, spring"
+"oracle, hibernate, servlet, jsp",struts
+"oracle, hibernate, jsp, struts",servlet
+"oracle, servlet, jsp, struts",hibernate
+"oracle, hibernate, servlet, struts",jsp
+"oracle, servlet, jsp","hibernate, struts"
+"oracle, hibernate, servlet","jsp, struts"
+"oracle, servlet, struts","hibernate, jsp"
+"oracle, hibernate, jsp, spring",struts
+"oracle, jsp, spring, struts",hibernate
+"oracle, hibernate, jsp, struts",spring
+"oracle, hibernate, spring, struts",jsp
+"oracle, jsp, spring","hibernate, struts"
+"oracle, hibernate, jsp","spring, struts"
+"oracle, jsp, struts","hibernate, spring"
+"oracle, spring, struts","hibernate, jsp"
+"oracle, hibernate, struts","jsp, spring"
+"hibernate, servlet, jsp, spring",struts
+"hibernate, jsp, spring, struts",servlet
+"servlet, jsp, spring, struts",hibernate
+"hibernate, servlet, jsp, struts",spring
+"hibernate, servlet, spring, struts",jsp
+"servlet, jsp, spring","hibernate, struts"
+"hibernate, servlet, spring","jsp, struts"
+"servlet, spring, struts","hibernate, jsp"
+"hibernate, servlet, struts","jsp, spring"
+"html, php, mysql, javascript",jquery
+"jquery, html, php, mysql",javascript
+"jquery, html, php, javascript",mysql
+"jquery, html, mysql, javascript",php
+"jquery, php, mysql, javascript",html
+"html, mysql, wordpress, javascript",jquery
+"jquery, html, mysql, wordpress",javascript
+"jquery, html, wordpress, javascript",mysql
+"jquery, mysql, wordpress, javascript",html
+"mysql, wordpress, javascript","jquery, html"
+"html, php, wordpress, javascript",jquery
+"jquery, html, php, wordpress",javascript
+"jquery, html, wordpress, javascript",php
+"jquery, php, wordpress, javascript",html
+"jquery, wordpress, javascript","html, php"
+"html, php, mysql, wordpress",javascript
+"html, php, wordpress, javascript",mysql
+"html, mysql, wordpress, javascript",php
+"php, mysql, wordpress, javascript",html
+"mysql, wordpress, javascript","html, php"
+"oracle, jdbc, html, spring",xml
+"oracle, jdbc, xml, spring",html
+"oracle, jdbc, html, xml",spring
+"oracle, html, xml, spring",jdbc
+"xml, jdbc, html, spring",oracle
+"oracle, jdbc, spring","xml, html"
+"oracle, jdbc, html","xml, spring"
+"oracle, jdbc, xml","html, spring"
+"oracle, html, spring","xml, jdbc"
+"oracle, xml, spring","jdbc, html"
+"oracle, html, xml","jdbc, spring"
+"jdbc, html, spring","oracle, xml"
+"xml, jdbc, spring","oracle, html"
+"xml, jdbc, html","oracle, spring"
+"xml, html, spring","oracle, jdbc"
+"joomla, html, php, mysql",jquery
+"jquery, joomla, html, php",mysql
+"jquery, joomla, html, mysql",php
+"jquery, joomla, php, mysql",html
+"joomla, html, mysql","jquery, php"
+"jquery, joomla, php","html, mysql"
+"jquery, joomla, mysql","html, php"
+"html, php, mysql, wordpress",jquery
+"jquery, html, php, wordpress",mysql
+"jquery, html, mysql, wordpress",php
+"jquery, php, mysql, wordpress",html
+"html, mysql, wordpress","jquery, php"
+"jquery, mysql, wordpress","html, php"
+"php, mysql, wordpress, javascript",jquery
+"jquery, php, wordpress, javascript",mysql
+"jquery, mysql, wordpress, javascript",php
+"mysql, wordpress, javascript","jquery, php"
+"jdbc, servlet, jsp, spring",struts
+"jdbc, jsp, spring, struts",servlet
+"jdbc, servlet, jsp, struts",spring
+"jdbc, servlet, spring, struts",jsp
+"servlet, jsp, spring, struts",jdbc
+"jdbc, servlet, spring","jsp, struts"
+"jdbc, servlet, struts","jsp, spring"
+"css, html, mysql, javascript, jquery",ajax
+"css, html, mysql, javascript, ajax",jquery
+"css, html, mysql, jquery, ajax",javascript
+"css, mysql, javascript, jquery, ajax",html
+"css, html, php, javascript, jquery",ajax
+"css, html, php, javascript, ajax",jquery
+"css, html, php, jquery, ajax",javascript
+"css, html, javascript, jquery, ajax",php
+"css, php, javascript, jquery, ajax",html
+"css, php, ajax, javascript","jquery, html"
+"css, html, php, mysql, javascript",ajax
+"css, html, php, mysql, ajax",javascript
+"css, html, php, javascript, ajax",mysql
+"css, html, mysql, javascript, ajax",php
+"css, php, mysql, javascript, ajax",html
+"css, php, ajax, javascript","html, mysql"
+"css, mysql, ajax, javascript","html, php"
+"css, html, php, mysql, jquery",ajax
+"css, html, php, mysql, ajax",jquery
+"css, html, php, jquery, ajax",mysql
+"css, html, mysql, jquery, ajax",php
+"css, php, mysql, jquery, ajax",html
+"html, php, mysql, jquery, ajax",css
+"css, ajax, mysql, jquery","html, php"
+"css, php, mysql, javascript, jquery",ajax
+"css, php, mysql, javascript, ajax",jquery
+"css, php, mysql, jquery, ajax",javascript
+"css, php, javascript, jquery, ajax",mysql
+"css, mysql, javascript, jquery, ajax",php
+"html, php, mysql, javascript, jquery",ajax
+"html, php, mysql, javascript, ajax",jquery
+"html, php, mysql, jquery, ajax",javascript
+"html, php, javascript, jquery, ajax",mysql
+"html, mysql, javascript, jquery, ajax",php
+"php, mysql, javascript, jquery, ajax",html
+"css, html, php, mysql, javascript",jquery
+"css, html, php, mysql, jquery",javascript
+"css, html, php, javascript, jquery",mysql
+"css, html, mysql, javascript, jquery",php
+"css, php, mysql, javascript, jquery",html
+"html, php, mysql, javascript, jquery",css
+"css, php, mysql, javascript","jquery, html"
+"css, mysql, jquery, javascript","html, php"
+"css, html, php, mysql, wordpress",jquery
+"css, html, php, jquery, wordpress",mysql
+"css, html, mysql, jquery, wordpress",php
+"css, php, mysql, jquery, wordpress",html
+"html, php, mysql, jquery, wordpress",css
+"css, html, mysql, wordpress","jquery, php"
+"css, php, mysql, wordpress","jquery, html"
+"css, php, wordpress, jquery","html, mysql"
+"css, mysql, jquery, wordpress","html, php"
+"oracle, jdbc, spring, html, xml",hibernate
+"oracle, jdbc, spring, html, hibernate",xml
+"oracle, jdbc, spring, xml, hibernate",html
+"oracle, jdbc, html, xml, hibernate",spring
+"oracle, spring, html, xml, hibernate",jdbc
+"jdbc, spring, html, xml, hibernate",oracle
+"oracle, jdbc, html, spring","xml, hibernate"
+"oracle, jdbc, xml, spring","html, hibernate"
+"oracle, jdbc, hibernate, spring","xml, html"
+"oracle, jdbc, html, xml","hibernate, spring"
+"oracle, jdbc, html, hibernate","xml, spring"
+"oracle, jdbc, xml, hibernate","html, spring"
+"oracle, html, xml, spring","jdbc, hibernate"
+"oracle, html, hibernate, spring","xml, jdbc"
+"oracle, xml, hibernate, spring","jdbc, html"
+"oracle, html, xml, hibernate","jdbc, spring"
+"xml, jdbc, html, spring","oracle, hibernate"
+"jdbc, html, hibernate, spring","oracle, xml"
+"xml, jdbc, hibernate, spring","oracle, html"
+"xml, jdbc, html, hibernate","oracle, spring"
+"xml, html, hibernate, spring","oracle, jdbc"
+"oracle, jdbc, spring","xml, html, hibernate"
+"oracle, jdbc, html","xml, hibernate, spring"
+"oracle, jdbc, xml","html, hibernate, spring"
+"oracle, jdbc, hibernate","xml, html, spring"
+"oracle, html, spring","xml, jdbc, hibernate"
+"oracle, xml, spring","jdbc, html, hibernate"
+"oracle, html, xml","jdbc, hibernate, spring"
+"oracle, xml, hibernate","jdbc, html, spring"
+"jdbc, html, spring","oracle, xml, hibernate"
+"xml, jdbc, spring","oracle, html, hibernate"
+"xml, jdbc, html","oracle, hibernate, spring"
+"xml, jdbc, hibernate","oracle, html, spring"
+"xml, html, spring","oracle, jdbc, hibernate"
+"xml, html, hibernate","oracle, jdbc, spring"
+"css, html, php, mysql, javascript, jquery",ajax
+"css, html, php, mysql, javascript, ajax",jquery
+"css, html, php, mysql, jquery, ajax",javascript
+"css, html, php, javascript, jquery, ajax",mysql
+"css, html, mysql, javascript, jquery, ajax",php
+"css, php, mysql, javascript, jquery, ajax",html
+"css, mysql, javascript, jquery, ajax","html, php"
+antecedants,consequents
+codeigniter,php
+css,html
+css3,html5
+hbase,hadoop
+pig,hadoop
+hive,pig
+pig,hive
+j2ee,java
+struts,java
+joomla,php
+servlet,jsp
+servlets,jsp
+magento,php
+regression testing,manual testing
+zend framework,php
+smo,seo
+ssrs,ssis
+ssis,ssrs
+wpf,wcf
+"ajax, angular js",javascript
+"ajax, angularjs",jquery
+"ajax, vb.net",asp.net
+"wcf, ajax",asp.net
+"ajax, bootstrap",javascript
+"ajax, bootstrap",jquery
+"c#, ajax",jquery
+"ajax, c++",jquery
+"ajax, codeigniter",javascript
+"ajax, codeigniter",mysql
+"ajax, codeigniter",php
+"ajax, html",css
+"ajax, css",html
+"ajax, css",javascript
+"ajax, css",jquery
+"css, json",ajax
+"ajax, css3",html5
+"ajax, css3",javascript
+"ajax, css3",jquery
+"ajax, html",jquery
+"ajax, html5",javascript
+"ajax, html5",jquery
+"javascript, ajax",jquery
+"ajax, json",jquery
+"json, jquery",ajax
+"ajax, mvc",jquery
+"ajax, mysql",jquery
+"ajax, xml",jquery
+"xml, jquery",ajax
+"php, ajax",mysql
+"ajax, mysql",php
+"ajax, wordpress",mysql
+"html, android",java
+"android, j2ee",java
+"android, json",java
+"angular js, bootstrap",jquery
+"html, angular js",css
+"angular js, css",html
+"angular js, css",javascript
+"angular js, css3",html5
+"angular js, html5",css3
+"angular js, css3",jquery
+"html, angular js",javascript
+"html, angular js",jquery
+"angular js, html5",jquery
+"javascript, angular js",jquery
+"angular js, jquery",javascript
+"css, angularjs",jquery
+"javascript, angularjs",jquery
+"angularjs, jquery",javascript
+"c#.net, vb.net",asp.net
+"c#.net, asp.net",vb.net
+"javascript, wcf",asp.net
+"wcf, sql server",asp.net
+"wcf, vb.net",asp.net
+"asp.net, xml",wcf
+"html, bootstrap",css
+"css, bootstrap",html
+"css, bootstrap",javascript
+"css, bootstrap",jquery
+"html5, bootstrap",css3
+"css3, bootstrap",html5
+"css3, bootstrap",jquery
+"html, bootstrap",javascript
+"html, bootstrap",jquery
+"html5, bootstrap",jquery
+"javascript, bootstrap",jquery
+"bootstrap, jquery",javascript
+"php, bootstrap",javascript
+"javascript, c#",jquery
+"wcf, sql server",c#
+"c#, wpf",wcf
+"c++, css",html
+"javascript, c++",html
+"c++, jquery",html
+"javascript, codeigniter",jquery
+"codeigniter, jquery",javascript
+"javascript, codeigniter",mysql
+"javascript, codeigniter",php
+"codeigniter, jquery",php
+"php, codeigniter",mysql
+"codeigniter, mysql",php
+"core java, css",html
+"html, css3",css
+"css, css3",html
+"css, css3",html5
+"html, html5",css
+"java, css",html
+"javascript, css",html
+"html, jquery",css
+"css, jquery",html
+"css, json",html
+"css, mysql",html
+"html, photoshop",css
+"css, photoshop",html
+"php, css",html
+"css, sql",html
+"html, wordpress",css
+"css, wordpress",html
+"css, xml",html
+"css, jquery",javascript
+"css, mysql",javascript
+"php, css",javascript
+"css, json",jquery
+"css, mysql",php
+"html, css3",html5
+"html, html5",css3
+"javascript, css3",html5
+"css3, jquery",html5
+"html5, jquery",css3
+"css3, html5",jquery
+"php, css3",html5
+"javascript, css3",jquery
+"php, css3",javascript
+"php, css3",jquery
+"hive, hadoop",pig
+"hive, pig",hadoop
+"pig, hadoop",hive
+"hibernate, j2ee",java
+"j2ee, spring",hibernate
+"hibernate, j2ee",spring
+"java, hibernate",spring
+"java, spring",hibernate
+"hibernate, spring",java
+"jsp, spring",hibernate
+"html, j2ee",java
+"php, java script",html
+"html, jquery",javascript
+"jsp, javascript",html
+"jsp, html",javascript
+"wcf, html",javascript
+"html, mysql",php
+"javascript, html5",jquery
+"php, html5",javascript
+"html5, mysql",php
+"javascript, j2ee",java
+"j2ee, mysql",java
+"j2ee, spring",java
+"javascript, json",jquery
+"javascript, mvc",jquery
+"sql, jquery",javascript
+"javascript, wordpress",jquery
+"wordpress, jquery",javascript
+"javascript, mysql",php
+"javascript, wordpress",mysql
+"wordpress, mysql",javascript
+"xml, mysql",javascript
+"javascript, wordpress",php
+"joomla, mysql",php
+"php, json",jquery
+"jquery, mysql",php
+"php, linux",mysql
+"php, sql",mysql
+"sql, mysql",php
+"wordpress, mysql",php
+"php, xml",mysql
+"ssrs, sql server",ssis
+"ssis, sql server",ssrs
+"ajax, javascript, html",css
+"ajax, html, css",javascript
+"javascript, ajax, css",html
+"ajax, html, css",jquery
+"ajax, html, jquery",css
+"ajax, css, jquery",html
+"ajax, css, mysql",html
+"ajax, php, html",css
+"php, ajax, css",html
+"ajax, html, xml",css
+"ajax, css, xml",html
+"javascript, ajax, css",jquery
+"ajax, css, jquery",javascript
+"ajax, css, mysql",javascript
+"php, ajax, css",javascript
+"javascript, css, xml",ajax
+"ajax, css, xml",javascript
+"ajax, css, json",jquery
+"css, json, jquery",ajax
+"ajax, css, mysql",jquery
+"jquery, css, mysql",ajax
+"php, ajax, css",jquery
+"php, css, jquery",ajax
+"ajax, css, xml",jquery
+"css, xml, jquery",ajax
+"php, ajax, css",mysql
+"php, css, mysql",ajax
+"ajax, css, mysql",php
+"ajax, javascript, html",jquery
+"ajax, html, jquery",javascript
+"ajax, html, mysql",javascript
+"ajax, html, xml",javascript
+"ajax, html, json",jquery
+"html, json, jquery",ajax
+"ajax, html, mysql",jquery
+"html, jquery, mysql",ajax
+"ajax, php, html",jquery
+"ajax, html, xml",jquery
+"html, xml, jquery",ajax
+"ajax, php, html",mysql
+"ajax, html, mysql",php
+"javascript, ajax, json",jquery
+"javascript, json, jquery",ajax
+"javascript, ajax, mysql",jquery
+"javascript, jquery, mysql",ajax
+"ajax, jquery, mysql",javascript
+"javascript, php, ajax",jquery
+"php, ajax, jquery",javascript
+"javascript, ajax, xml",jquery
+"javascript, xml, jquery",ajax
+"ajax, xml, jquery",javascript
+"javascript, php, ajax",mysql
+"javascript, php, mysql",ajax
+"javascript, ajax, mysql",php
+"php, ajax, mysql",javascript
+"javascript, xml, mysql",ajax
+"ajax, xml, mysql",javascript
+"php, ajax, mysql",jquery
+"php, ajax, jquery",mysql
+"php, jquery, mysql",ajax
+"ajax, jquery, mysql",php
+"ajax, xml, mysql",jquery
+"jquery, xml, mysql",ajax
+"php, ajax, xml",mysql
+"php, xml, mysql",ajax
+"ajax, xml, mysql",php
+"angular js, css3, jquery",html5
+"angular js, html5, jquery",css3
+"angular js, css3, html5",jquery
+"angular js, css3","html5, jquery"
+"html, bootstrap, jquery",css
+"css, bootstrap, jquery",html
+"html, css, bootstrap",jquery
+"html, bootstrap","css, jquery"
+"css, bootstrap","html, jquery"
+"css, bootstrap, jquery",javascript
+"javascript, css, bootstrap",jquery
+"css, bootstrap","javascript, jquery"
+"javascript, html, bootstrap",jquery
+"html, bootstrap, jquery",javascript
+"html, bootstrap","javascript, jquery"
+"javascript, php, codeigniter",jquery
+"javascript, codeigniter, jquery",php
+"php, codeigniter, jquery",javascript
+"html, css, css3",html5
+"html, css, html5",css3
+"html, css3, html5",css
+"css, css3, html5",html
+"html, css3","css, html5"
+"html, html5","css, css3"
+"css, css3","html, html5"
+"javascript, css, css3",html5
+"javascript, css, html5",css3
+"css, css3, html5",javascript
+"html, css, html5",jquery
+"html, html5, jquery",css
+"css, html5, jquery",html
+"javascript, java, css",html
+"java, html, css",javascript
+"javascript, html, css",jquery
+"javascript, html, jquery",css
+"javascript, css, jquery",html
+"html, css, jquery",javascript
+"javascript, html, mysql",css
+"javascript, css, mysql",html
+"html, css, mysql",javascript
+"javascript, php, html",css
+"javascript, php, css",html
+"javascript, css, xml",html
+"html, css, xml",javascript
+"html, css, mysql",jquery
+"html, jquery, mysql",css
+"jquery, css, mysql",html
+"php, html, css",jquery
+"php, html, jquery",css
+"php, css, jquery",html
+"css, xml, jquery",html
+"php, css, mysql",html
+"html, css, mysql",php
+"jquery, css, mysql",javascript
+"php, css, jquery",javascript
+"javascript, css, mysql",php
+"php, css, mysql",javascript
+"php, css, mysql",jquery
+"php, css, jquery",mysql
+"jquery, css, mysql",php
+"javascript, css3, jquery",html5
+"javascript, html5, jquery",css3
+"javascript, css3, html5",jquery
+"javascript, css3","html5, jquery"
+"java, hibernate, j2ee",spring
+"java, j2ee, spring",hibernate
+"hibernate, j2ee, spring",java
+"html, jquery, mysql",javascript
+"php, html, jquery",javascript
+"javascript, xml, jquery",html
+"html, xml, jquery",javascript
+"javascript, php, html",mysql
+"html, xml, mysql",javascript
+"php, html, jquery",mysql
+"html, jquery, mysql",php
+"javascript, php, jquery",mysql
+"javascript, jquery, mysql",php
+"php, jquery, mysql",javascript
+"jquery, xml, mysql",javascript
+"javascript, php, wordpress",jquery
+"javascript, wordpress, jquery",php
+"php, wordpress, jquery",javascript
+"javascript, php, wordpress",mysql
+"javascript, wordpress, mysql",php
+"php, wordpress, mysql",javascript
+"javascript, php, xml",mysql
+"php, xml, mysql",javascript
+"ajax, javascript, html, css",jquery
+"ajax, javascript, html, jquery",css
+"javascript, ajax, css, jquery",html
+"ajax, html, css, jquery",javascript
+"ajax, javascript, html, mysql",css
+"javascript, ajax, css, mysql",html
+"ajax, html, css, mysql",javascript
+"ajax, javascript, php, html",css
+"javascript, php, ajax, css",html
+"ajax, php, html, css",javascript
+"ajax, html, css, mysql",jquery
+"jquery, html, css, mysql",ajax
+"ajax, html, jquery, mysql",css
+"jquery, ajax, css, mysql",html
+"ajax, php, html, css",jquery
+"php, html, css, jquery",ajax
+"ajax, php, html, jquery",css
+"php, ajax, css, jquery",html
+"php, html, css, mysql",ajax
+"ajax, html, css, mysql",php
+"ajax, php, html, css",mysql
+"php, ajax, css, mysql",html
+"ajax, css, mysql","php, html"
+"javascript, ajax, css, mysql",jquery
+"jquery, javascript, css, mysql",ajax
+"jquery, ajax, css, mysql",javascript
+"javascript, php, ajax, css",jquery
+"javascript, php, css, jquery",ajax
+"php, ajax, css, jquery",javascript
+"javascript, php, css, mysql",ajax
+"javascript, ajax, css, mysql",php
+"javascript, php, ajax, css",mysql
+"php, ajax, css, mysql",javascript
+"php, ajax, css, mysql",jquery
+"jquery, php, css, mysql",ajax
+"jquery, ajax, css, mysql",php
+"php, ajax, css, jquery",mysql
+"ajax, javascript, html, mysql",jquery
+"javascript, html, jquery, mysql",ajax
+"ajax, html, jquery, mysql",javascript
+"ajax, javascript, php, html",jquery
+"ajax, php, html, jquery",javascript
+"ajax, javascript, html, xml",jquery
+"javascript, html, xml, jquery",ajax
+"javascript, ajax, xml, jquery",html
+"ajax, html, xml, jquery",javascript
+"javascript, php, html, mysql",ajax
+"ajax, javascript, html, mysql",php
+"ajax, javascript, php, html",mysql
+"ajax, php, html, mysql",javascript
+"ajax, php, html, mysql",jquery
+"php, html, jquery, mysql",ajax
+"ajax, html, jquery, mysql",php
+"ajax, php, html, jquery",mysql
+"javascript, php, ajax, mysql",jquery
+"javascript, php, jquery, mysql",ajax
+"javascript, ajax, jquery, mysql",php
+"javascript, php, ajax, jquery",mysql
+"php, ajax, jquery, mysql",javascript
+"javascript, html, css, mysql",jquery
+"javascript, html, jquery, mysql",css
+"jquery, javascript, css, mysql",html
+"jquery, html, css, mysql",javascript
+"jquery, css, mysql","javascript, html"
+"javascript, php, html, css",jquery
+"javascript, php, html, jquery",css
+"javascript, php, css, jquery",html
+"php, html, css, jquery",javascript
+"javascript, php, html, css",mysql
+"javascript, php, css, mysql",html
+"php, html, css, mysql",javascript
+"php, html, css, mysql",jquery
+"jquery, html, css, mysql",php
+"php, html, css, jquery",mysql
+"php, html, jquery, mysql",css
+"jquery, php, css, mysql",html
+"javascript, php, css, mysql",jquery
+"jquery, javascript, css, mysql",php
+"javascript, php, css, jquery",mysql
+"jquery, php, css, mysql",javascript
+"javascript, html, jquery, mysql",php
+"javascript, php, html, jquery",mysql
+"php, html, jquery, mysql",javascript
+"html, css, mysql, php, ajax",jquery
+"html, css, mysql, php, jquery",ajax
+"html, css, mysql, ajax, jquery",php
+"html, css, php, ajax, jquery",mysql
+"html, mysql, php, ajax, jquery",css
+"css, mysql, php, ajax, jquery",html
+"ajax, html, css, mysql","php, jquery"
+"php, ajax, css, mysql","html, jquery"
+"jquery, php, css, mysql","ajax, html"
+"jquery, ajax, css, mysql","php, html"
+"php, ajax, css, jquery","html, mysql"
+"javascript, html, mysql, php, ajax",jquery
+"javascript, html, mysql, php, jquery",ajax
+"javascript, html, mysql, ajax, jquery",php
+"javascript, html, php, ajax, jquery",mysql
+"html, mysql, php, ajax, jquery",javascript
+"ajax, javascript, php, html","jquery, mysql"
+antecedants,consequents
+ado.net,asp.net
+mvc,asp.net
+css,html
+dhcp,dns
+dns,dhcp
+ejb,hibernate
+ejb,java
+ejb,jsp
+ejb,struts
+hibernate,java
+jsf,hibernate
+spring,hibernate
+struts,hibernate
+j2ee,java
+spring,java
+struts,java
+jdbc,jsp
+servlet,jsp
+servlets,jsp
+wordpress,php
+servlets,struts
+"asp.net, ajax",c#
+"ajax, c#",asp.net
+"ajax, c#",jquery
+"ajax, css",html
+"ajax, spring",hibernate
+"ajax, hibernate",spring
+"ajax, struts",hibernate
+"ajax, hibernate",struts
+"ajax, struts",java
+"ajax, java",struts
+"ajax, mysql",javascript
+"ajax, php",javascript
+"ajax, mysql",php
+"javascript, asp.net",c#
+"javascript, c#",asp.net
+"asp.net, jquery",c#
+"c#, jquery",asp.net
+"wcf, asp.net",c#
+"wcf, c#",asp.net
+"core java, hibernate",jsp
+"core java, struts",hibernate
+"core java, hibernate",struts
+"servlets, core java",jsp
+"core java, struts",jsp
+"javascript, css",html
+"css, jquery",html
+"css, mysql",html
+"mysql, html",css
+"css, php",html
+"php, html",css
+"css, jquery",javascript
+"css, mysql",php
+"ejb, java",hibernate
+"ejb, hibernate",java
+"ejb, struts",hibernate
+"ejb, hibernate",struts
+"ejb, struts",java
+"ejb, java",struts
+"hibernate, j2ee",java
+"hibernate, java",j2ee
+"jsp, j2ee",hibernate
+"oracle, hibernate",j2ee
+"servlets, j2ee",hibernate
+"spring, j2ee",hibernate
+"hibernate, j2ee",spring
+"struts, j2ee",hibernate
+"hibernate, j2ee",struts
+"jsp, hibernate",java
+"oracle, hibernate",java
+"servlet, java",hibernate
+"servlet, hibernate",java
+"spring, java",hibernate
+"spring, hibernate",java
+"hibernate, java",spring
+"java, struts",hibernate
+"hibernate, struts",java
+"jdbc, hibernate",jsp
+"spring, jsf",hibernate
+"hibernate, jsf",spring
+"jsp, servlet",hibernate
+"servlet, hibernate",jsp
+"servlets, hibernate",jsp
+"jsp, spring",hibernate
+"jsp, struts",hibernate
+"jsp, hibernate",struts
+"spring, oracle",hibernate
+"oracle, hibernate",spring
+"oracle, struts",hibernate
+"oracle, hibernate",struts
+"servlet, spring",hibernate
+"servlet, hibernate",spring
+"servlet, struts",hibernate
+"servlet, hibernate",struts
+"spring, servlets",hibernate
+"servlets, struts",hibernate
+"servlets, hibernate",struts
+"spring, struts",hibernate
+"spring, hibernate",struts
+"hibernate, struts",spring
+"html, j2ee",java
+"mysql, html",php
+"javascript, j2ee",java
+"jsp, j2ee",java
+"oracle, j2ee",java
+"servlet, java",j2ee
+"servlet, j2ee",java
+"servlets, j2ee",java
+"spring, java",j2ee
+"spring, j2ee",java
+"sql, j2ee",java
+"java, struts",j2ee
+"j2ee, struts",java
+"webservices, java",j2ee
+"webservices, j2ee",java
+"xml, j2ee",java
+"servlet, j2ee",jsp
+"servlets, j2ee",jsp
+"servlets, j2ee",struts
+"jdbc, java",jsp
+"jsp, servlet",java
+"servlet, java",jsp
+"servlets, java",jsp
+"jsp, spring",java
+"spring, oracle",java
+"servlet, spring",java
+"servlet, java",spring
+"servlet, struts",java
+"servlet, java",struts
+"spring, servlets",java
+"servlets, java",struts
+"spring, struts",java
+"mysql, jquery",javascript
+"php, jquery",javascript
+"javascript, php",mysql
+"javascript, mysql",php
+"javascript, wordpress",php
+"jdbc, servlets",jsp
+"jdbc, jsp",struts
+"jdbc, struts",jsp
+"php, jquery",mysql
+"mysql, jquery",php
+"jsp, oracle",struts
+"servlet, spring",jsp
+"jsp, servlet",struts
+"servlet, struts",jsp
+"spring, servlets",jsp
+"jsp, servlets",struts
+"servlets, struts",jsp
+"jsp, spring",struts
+"mysql, wordpress",php
+"spring, oracle",struts
+"servlet, spring",struts
+"servlet, struts",spring
+"spring, servlets",struts
+"css, php, mysql",html
+"css, php, html",mysql
+"php, mysql, html",css
+"css, mysql, html",php
+"css, mysql","php, html"
+"jsp, java, j2ee",hibernate
+"jsp, hibernate, j2ee",java
+"spring, java, j2ee",hibernate
+"spring, hibernate, j2ee",java
+"hibernate, java, j2ee",spring
+"spring, hibernate, java",j2ee
+"spring, j2ee","hibernate, java"
+"struts, java, j2ee",hibernate
+"struts, j2ee, hibernate",java
+"hibernate, java, j2ee",struts
+"hibernate, java, struts",j2ee
+"jsp, spring, j2ee",hibernate
+"jsp, hibernate, j2ee",spring
+"jsp, struts, j2ee",hibernate
+"jsp, hibernate, j2ee",struts
+"spring, struts, j2ee",hibernate
+"spring, hibernate, j2ee",struts
+"struts, j2ee, hibernate",spring
+"servlets, java, hibernate",jsp
+"jsp, spring, java",hibernate
+"jsp, spring, hibernate",java
+"jsp, hibernate, java",spring
+"jsp, java, struts",hibernate
+"jsp, hibernate, java",struts
+"spring, servlets, java",hibernate
+"spring, servlets, hibernate",java
+"servlets, java, hibernate",spring
+"servlets, java, struts",hibernate
+"servlets, java, hibernate",struts
+"spring, java, struts",hibernate
+"spring, hibernate, struts",java
+"spring, hibernate, java",struts
+"hibernate, java, struts",spring
+"jsp, servlet, spring",hibernate
+"jsp, servlet, hibernate",spring
+"servlet, spring, hibernate",jsp
+"servlet, spring","jsp, hibernate"
+"jsp, servlet, struts",hibernate
+"jsp, servlet, hibernate",struts
+"servlet, hibernate, struts",jsp
+"servlet, struts","jsp, hibernate"
+"servlet, hibernate","jsp, struts"
+"jsp, spring, servlets",hibernate
+"spring, servlets, hibernate",jsp
+"spring, servlets","jsp, hibernate"
+"jsp, servlets, struts",hibernate
+"jsp, servlets, hibernate",struts
+"servlets, struts, hibernate",jsp
+"servlets, struts","jsp, hibernate"
+"servlets, hibernate","jsp, struts"
+"jsp, spring, struts",hibernate
+"jsp, spring, hibernate",struts
+"spring, oracle, struts",hibernate
+"spring, oracle, hibernate",struts
+"hibernate, oracle, struts",spring
+"spring, oracle","hibernate, struts"
+"spring, servlets, struts",hibernate
+"servlets, struts, hibernate",spring
+"spring, servlets, hibernate",struts
+"spring, servlets","hibernate, struts"
+"jsp, servlet, java",j2ee
+"jsp, servlet, j2ee",java
+"j2ee, servlet, java",jsp
+"servlet, java","jsp, j2ee"
+"servlet, j2ee","jsp, java"
+"jsp, spring, j2ee",java
+"jsp, struts, j2ee",java
+"spring, java, struts",j2ee
+"j2ee, spring, struts",java
+"jsp, spring, j2ee",struts
+"jsp, struts, j2ee",spring
+"jsp, servlet, struts",java
+"jsp, servlet, java",struts
+"servlet, java, struts",jsp
+"servlet, struts","jsp, java"
+"jsp, spring, servlets",java
+"spring, servlets, java",jsp
+"jsp, servlets, java",struts
+"servlets, java, struts",jsp
+"jsp, spring, struts",java
+"jsp, spring, java",struts
+"spring, servlets, struts",java
+"servlets, java, struts",spring
+"spring, servlets, java",struts
+"jsp, spring, servlets",struts
+"spring, servlets, struts",jsp
+"spring, servlets","jsp, struts"
+"jsp, spring, java, j2ee",hibernate
+"jsp, spring, hibernate, j2ee",java
+"jsp, hibernate, java, j2ee",spring
+"jsp, spring, j2ee","hibernate, java"
+"jsp, hibernate, java, j2ee",struts
+"jsp, struts, java, j2ee",hibernate
+"jsp, struts, hibernate, j2ee",java
+"struts, spring, hibernate, java",j2ee
+"j2ee, spring, hibernate, java",struts
+"j2ee, spring, struts, java",hibernate
+"j2ee, spring, struts, hibernate",java
+"struts, hibernate, java, j2ee",spring
+"j2ee, spring, struts","hibernate, java"
+"jsp, spring, hibernate, j2ee",struts
+"jsp, spring, struts, j2ee",hibernate
+"jsp, struts, hibernate, j2ee",spring
+"struts, servlets, java, hibernate",jsp
+"jsp, servlets, java, hibernate",struts
+"struts, servlets, jsp, java",hibernate
+"servlets, java, hibernate","jsp, struts"
+"jsp, spring, hibernate, java",struts
+"jsp, spring, struts, java",hibernate
+"jsp, spring, struts, hibernate",java
+"struts, hibernate, jsp, java",spring
+"struts, spring, servlets, hibernate",jsp
+"jsp, spring, servlets, hibernate",struts
+"jsp, spring, servlets, struts",hibernate
+"struts, servlets, jsp, hibernate",spring
+"spring, servlets, hibernate","jsp, struts"
+"spring, servlets, struts","jsp, hibernate"
+"jsp, spring, servlets","struts, hibernate"
+"jsp, spring, struts, java",j2ee
+"jsp, spring, java, j2ee",struts
+"jsp, spring, struts, j2ee",java
+"jsp, struts, java, j2ee",spring
